@@ -3,6 +3,72 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0036]ValidSudoku.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0036]ValidSudoku.md" />
+              <option name="frontendQuestionId" value="leetcode.cn36" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0036]ValidSudoku.cpp" />
+              <option name="titleSlug" value="valid-sudoku" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0347]TopKFrequentElements.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0347]TopKFrequentElements.md" />
+              <option name="frontendQuestionId" value="leetcode.cn347" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0347]TopKFrequentElements.cpp" />
+              <option name="titleSlug" value="top-k-frequent-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0373]FindKPairsWithSmallestSums.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0373]FindKPairsWithSmallestSums.md" />
+              <option name="frontendQuestionId" value="leetcode.cn373" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0373]FindKPairsWithSmallestSums.cpp" />
+              <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0703]KthLargestElementInAStream.md" />
+              <option name="frontendQuestionId" value="leetcode.cn703" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp" />
+              <option name="titleSlug" value="kth-largest-element-in-a-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0919]CompleteBinaryTreeInserter.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0919]CompleteBinaryTreeInserter.md" />
+              <option name="frontendQuestionId" value="leetcode.cn919" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0919]CompleteBinaryTreeInserter.cpp" />
+              <option name="titleSlug" value="complete-binary-tree-inserter" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0933]NumberOfRecentCalls.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0933]NumberOfRecentCalls.md" />
+              <option name="frontendQuestionId" value="leetcode.cn933" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0933]NumberOfRecentCalls.cpp" />
+              <option name="titleSlug" value="number-of-recent-calls" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1044]LongestDuplicateSubstring.cpp">
           <value>
             <LeetcodeEditor>
@@ -168,6 +234,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3027]FindTheNumberOfWaysToPlacePeopleIi.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3027]FindTheNumberOfWaysToPlacePeopleIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3027" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3027]FindTheNumberOfWaysToPlacePeopleIi.cpp" />
+              <option name="titleSlug" value="find-the-number-of-ways-to-place-people-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[304]RangeSumQuery2dImmutable.cpp">
           <value>
             <LeetcodeEditor>
@@ -220,6 +297,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3470]PermutationsIv.cpp" />
               <option name="titleSlug" value="permutations-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3516]FindClosestPerson.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3516]FindClosestPerson.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3516" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3516]FindClosestPerson.cpp" />
+              <option name="titleSlug" value="find-closest-person" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -572,6 +660,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[LCR 044]HPov7L.cpp" />
               <option name="titleSlug" value="hPov7L" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[LCR 053]P5rCT8.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 053]P5rCT8.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 053" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[LCR 053]P5rCT8.cpp" />
+              <option name="titleSlug" value="P5rCT8" />
             </LeetcodeEditor>
           </value>
         </entry>
