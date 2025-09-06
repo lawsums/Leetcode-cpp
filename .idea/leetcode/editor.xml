@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0023]MergeKSortedLists.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0023]MergeKSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0023]MergeKSortedLists.cpp" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0036]ValidSudoku.cpp">
           <value>
             <LeetcodeEditor>
@@ -11,6 +22,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0036]ValidSudoku.cpp" />
               <option name="titleSlug" value="valid-sudoku" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0056]MergeIntervals.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0056]MergeIntervals.md" />
+              <option name="frontendQuestionId" value="leetcode.cn56" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0056]MergeIntervals.cpp" />
+              <option name="titleSlug" value="merge-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0129]SumRootToLeafNumbers.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0129]SumRootToLeafNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn129" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0129]SumRootToLeafNumbers.cpp" />
+              <option name="titleSlug" value="sum-root-to-leaf-numbers" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -36,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0437]PathSumIii.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0437]PathSumIii.md" />
+              <option name="frontendQuestionId" value="leetcode.cn437" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0437]PathSumIii.cpp" />
+              <option name="titleSlug" value="path-sum-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp">
           <value>
             <LeetcodeEditor>
@@ -44,6 +88,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp" />
               <option name="titleSlug" value="kth-largest-element-in-a-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0729]MyCalendarI.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0729]MyCalendarI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn729" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0729]MyCalendarI.cpp" />
+              <option name="titleSlug" value="my-calendar-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0814]BinaryTreePruning.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0814]BinaryTreePruning.md" />
+              <option name="frontendQuestionId" value="leetcode.cn814" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0814]BinaryTreePruning.cpp" />
+              <option name="titleSlug" value="binary-tree-pruning" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -190,6 +256,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2208]MinimumOperationsToHalveArraySum.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2208]MinimumOperationsToHalveArraySum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2208" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2208]MinimumOperationsToHalveArraySum.cpp" />
+              <option name="titleSlug" value="minimum-operations-to-halve-array-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[234]PalindromeLinkedList.cpp">
           <value>
             <LeetcodeEditor>
@@ -209,6 +286,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[242]ValidAnagram.cpp" />
               <option name="titleSlug" value="valid-anagram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2555]MaximizeWinFromTwoSegments.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2555]MaximizeWinFromTwoSegments.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2555" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2555]MaximizeWinFromTwoSegments.cpp" />
+              <option name="titleSlug" value="maximize-win-from-two-segments" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -297,6 +385,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3470]PermutationsIv.cpp" />
               <option name="titleSlug" value="permutations-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3495]MinimumOperationsToMakeArrayElementsZero.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3495]MinimumOperationsToMakeArrayElementsZero.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3495" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3495]MinimumOperationsToMakeArrayElementsZero.cpp" />
+              <option name="titleSlug" value="minimum-operations-to-make-array-elements-zero" />
             </LeetcodeEditor>
           </value>
         </entry>
