@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0173]BinarySearchTreeIterator.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0173]BinarySearchTreeIterator.md" />
+              <option name="frontendQuestionId" value="leetcode.cn173" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0173]BinarySearchTreeIterator.cpp" />
+              <option name="titleSlug" value="binary-search-tree-iterator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0347]TopKFrequentElements.cpp">
           <value>
             <LeetcodeEditor>
@@ -80,6 +91,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0538]ConvertBstToGreaterTree.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0538]ConvertBstToGreaterTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn538" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0538]ConvertBstToGreaterTree.cpp" />
+              <option name="titleSlug" value="convert-bst-to-greater-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp">
           <value>
             <LeetcodeEditor>
@@ -110,6 +132,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0814]BinaryTreePruning.cpp" />
               <option name="titleSlug" value="binary-tree-pruning" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0897]IncreasingOrderSearchTree.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0897]IncreasingOrderSearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn897" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0897]IncreasingOrderSearchTree.cpp" />
+              <option name="titleSlug" value="increasing-order-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -165,6 +198,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1304]FindNUniqueIntegersSumUpToZero.cpp" />
               <option name="titleSlug" value="find-n-unique-integers-sum-up-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1317]ConvertIntegerToTheSumOfTwoNoZeroIntegers.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1317]ConvertIntegerToTheSumOfTwoNoZeroIntegers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1317" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1317]ConvertIntegerToTheSumOfTwoNoZeroIntegers.cpp" />
+              <option name="titleSlug" value="convert-integer-to-the-sum-of-two-no-zero-integers" />
             </LeetcodeEditor>
           </value>
         </entry>
