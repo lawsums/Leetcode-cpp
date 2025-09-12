@@ -59,7 +59,16 @@ using namespace std;
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        
+        int l = 0, r = nums.size() - 1, m;
+         while (l <= r) { // 小于等于
+             m = l + (r - l) / 2; // 防止int类型溢出
+             if (target > nums[m]) { l = m + 1; }
+             else if (target < nums[m]) { r = m - 1; }
+             else { return m; }
+         }
+         return l;
+         // l 代表 第一个 ≥ target 的位置
+         // r 代表 最后一个 < target 的位置
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)

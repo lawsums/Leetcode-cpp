@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0069]Sqrtx.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0069]Sqrtx.md" />
+              <option name="frontendQuestionId" value="leetcode.cn69" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0069]Sqrtx.cpp" />
+              <option name="titleSlug" value="sqrtx" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0129]SumRootToLeafNumbers.cpp">
           <value>
             <LeetcodeEditor>
@@ -124,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0378]KthSmallestElementInASortedMatrix.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0378]KthSmallestElementInASortedMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.cn378" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0378]KthSmallestElementInASortedMatrix.cpp" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-sorted-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0437]PathSumIii.cpp">
           <value>
             <LeetcodeEditor>
@@ -135,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0528]RandomPickWithWeight.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0528]RandomPickWithWeight.md" />
+              <option name="frontendQuestionId" value="leetcode.cn528" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0528]RandomPickWithWeight.cpp" />
+              <option name="titleSlug" value="random-pick-with-weight" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0538]ConvertBstToGreaterTree.cpp">
           <value>
             <LeetcodeEditor>
@@ -143,6 +176,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0538]ConvertBstToGreaterTree.cpp" />
               <option name="titleSlug" value="convert-bst-to-greater-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0540]SingleElementInASortedArray.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0540]SingleElementInASortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn540" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0540]SingleElementInASortedArray.cpp" />
+              <option name="titleSlug" value="single-element-in-a-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -176,6 +220,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0814]BinaryTreePruning.cpp" />
               <option name="titleSlug" value="binary-tree-pruning" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0852]PeakIndexInAMountainArray.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0852]PeakIndexInAMountainArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn852" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0852]PeakIndexInAMountainArray.cpp" />
+              <option name="titleSlug" value="peak-index-in-a-mountain-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0875]KokoEatingBananas.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0875]KokoEatingBananas.md" />
+              <option name="frontendQuestionId" value="leetcode.cn875" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0875]KokoEatingBananas.cpp" />
+              <option name="titleSlug" value="koko-eating-bananas" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -550,6 +616,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3516]FindClosestPerson.cpp" />
               <option name="titleSlug" value="find-closest-person" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3541]FindMostFrequentVowelAndConsonant.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3541]FindMostFrequentVowelAndConsonant.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3541" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3541]FindMostFrequentVowelAndConsonant.cpp" />
+              <option name="titleSlug" value="find-most-frequent-vowel-and-consonant" />
             </LeetcodeEditor>
           </value>
         </entry>
