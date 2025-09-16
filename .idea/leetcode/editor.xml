@@ -190,6 +190,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0410]SplitArrayLargestSum.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0410]SplitArrayLargestSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn410" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0410]SplitArrayLargestSum.cpp" />
+              <option name="titleSlug" value="split-array-largest-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0435]NonOverlappingIntervals.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0435]NonOverlappingIntervals.md" />
+              <option name="frontendQuestionId" value="leetcode.cn435" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0435]NonOverlappingIntervals.cpp" />
+              <option name="titleSlug" value="non-overlapping-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0437]PathSumIii.cpp">
           <value>
             <LeetcodeEditor>
@@ -198,6 +220,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0437]PathSumIii.cpp" />
               <option name="titleSlug" value="path-sum-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0502]Ipo.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0502]Ipo.md" />
+              <option name="frontendQuestionId" value="leetcode.cn502" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0502]Ipo.cpp" />
+              <option name="titleSlug" value="ipo" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -242,6 +275,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp" />
               <option name="titleSlug" value="kth-largest-element-in-a-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0719]FindKThSmallestPairDistance.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0719]FindKThSmallestPairDistance.md" />
+              <option name="frontendQuestionId" value="leetcode.cn719" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0719]FindKThSmallestPairDistance.cpp" />
+              <option name="titleSlug" value="find-k-th-smallest-pair-distance" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -418,6 +462,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1317]ConvertIntegerToTheSumOfTwoNoZeroIntegers.cpp" />
               <option name="titleSlug" value="convert-integer-to-the-sum-of-two-no-zero-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1338]ReduceArraySizeToTheHalf.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1338]ReduceArraySizeToTheHalf.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1338" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1338]ReduceArraySizeToTheHalf.cpp" />
+              <option name="titleSlug" value="reduce-array-size-to-the-half" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1353]MaximumNumberOfEventsThatCanBeAttended.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1353]MaximumNumberOfEventsThatCanBeAttended.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1353" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1353]MaximumNumberOfEventsThatCanBeAttended.cpp" />
+              <option name="titleSlug" value="maximum-number-of-events-that-can-be-attended" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1078,6 +1144,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[LCR 053]P5rCT8.cpp" />
               <option name="titleSlug" value="P5rCT8" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[LCR 132]JianShengZiIiLcof.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 132]JianShengZiIiLcof.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 132" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[LCR 132]JianShengZiIiLcof.cpp" />
+              <option name="titleSlug" value="jian-sheng-zi-ii-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
