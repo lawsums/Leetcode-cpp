@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0093]RestoreIpAddresses.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0093]RestoreIpAddresses.md" />
+              <option name="frontendQuestionId" value="leetcode.cn93" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0093]RestoreIpAddresses.cpp" />
+              <option name="titleSlug" value="restore-ip-addresses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0129]SumRootToLeafNumbers.cpp">
           <value>
             <LeetcodeEditor>
@@ -66,6 +77,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0129]SumRootToLeafNumbers.cpp" />
               <option name="titleSlug" value="sum-root-to-leaf-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[0131]PalindromePartitioning.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0131]PalindromePartitioning.md" />
+              <option name="frontendQuestionId" value="leetcode.cn131" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[0131]PalindromePartitioning.cpp" />
+              <option name="titleSlug" value="palindrome-partitioning" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -564,6 +586,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1912]DesignMovieRentalSystem.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1912]DesignMovieRentalSystem.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1912" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1912]DesignMovieRentalSystem.cpp" />
+              <option name="titleSlug" value="design-movie-rental-system" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[19]RemoveNthNodeFromEndOfList.cpp">
           <value>
             <LeetcodeEditor>
@@ -605,6 +638,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2327]NumberOfPeopleAwareOfASecret.cpp" />
               <option name="titleSlug" value="number-of-people-aware-of-a-secret" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2349]DesignANumberContainerSystem.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2349]DesignANumberContainerSystem.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2349" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2349]DesignANumberContainerSystem.cpp" />
+              <option name="titleSlug" value="design-a-number-container-system" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -718,6 +762,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3408]DesignTaskManager.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3408]DesignTaskManager.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3408" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3408]DesignTaskManager.cpp" />
+              <option name="titleSlug" value="design-task-manager" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3446]SortMatrixByDiagonals.cpp">
           <value>
             <LeetcodeEditor>
@@ -751,6 +806,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3484]DesignSpreadsheet.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3484]DesignSpreadsheet.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3484" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3484]DesignSpreadsheet.cpp" />
+              <option name="titleSlug" value="design-spreadsheet" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3495]MinimumOperationsToMakeArrayElementsZero.cpp">
           <value>
             <LeetcodeEditor>
@@ -759,6 +825,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3495]MinimumOperationsToMakeArrayElementsZero.cpp" />
               <option name="titleSlug" value="minimum-operations-to-make-array-elements-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3508]ImplementRouter.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3508]ImplementRouter.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3508" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3508]ImplementRouter.cpp" />
+              <option name="titleSlug" value="implement-router" />
             </LeetcodeEditor>
           </value>
         </entry>
