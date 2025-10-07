@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Leetcode" targetName="SortedStack" />
+      <config projectName="Leetcode" targetName="1353_MaximumNumberOfEventsThatCanBeAttended" />
+      <config projectName="Leetcode" targetName="2349_DesignANumberContainerSystem" />
+      <config projectName="Leetcode" targetName="37_SudokuSolver" />
+      <config projectName="Leetcode" targetName="0129_SumRootToLeafNumbers" />
+      <config projectName="Leetcode" targetName="37_SudokuSolver_wrong" />
+      <config projectName="Leetcode" targetName="0120_Triangle" />
+      <config projectName="Leetcode" targetName="1304_FindNUniqueIntegersSumUpToZero" />
+      <config projectName="Leetcode" targetName="1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers" />
+      <config projectName="Leetcode" targetName="43_MultiplyStrings" />
+      <config projectName="Leetcode" targetName="3453_SeparateSquaresI" />
+      <config projectName="Leetcode" targetName="0148_SortList" />
+      <config projectName="Leetcode" targetName="LCR_029_FourUeAj6" />
+      <config projectName="Leetcode" targetName="0198_HouseRobber" />
+      <config projectName="Leetcode" targetName="234_PalindromeLinkedList" />
+      <config projectName="Leetcode" targetName="0437_PathSumIii" />
+      <config projectName="Leetcode" targetName="0933_NumberOfRecentCalls" />
+      <config projectName="Leetcode" targetName="3459_LongestVShapeDigonal" />
+      <config projectName="Leetcode" targetName="513_FindBottomLeftTreeValue" />
+      <config projectName="Leetcode" targetName="0703_KthLargestElementInAStream" />
+      <config projectName="Leetcode" targetName="0729_MyCalendarI" />
+      <config projectName="Leetcode" targetName="1792_MaximumAveragePassRatio" />
+      <config projectName="Leetcode" targetName="SplitToIncreasingSequences" />
+      <config projectName="Leetcode" targetName="1262_GreatestSumDivisibleByThree" />
+      <config projectName="Leetcode" targetName="1044_LongestDuplicateSubstring" />
+      <config projectName="Leetcode" targetName="515_FindLargestValueInEachTreeRow" />
+      <config projectName="Leetcode" targetName="0056_MergeIntervals" />
+      <config projectName="Leetcode" targetName="LCR_017_M1oyTv" />
+      <config projectName="Leetcode" targetName="30_SubstringWithConcatenationOfAllWords_mine" />
+      <config projectName="Leetcode" targetName="2327_NumberOfPeopleAwareOfASecret" />
+      <config projectName="Leetcode" targetName="3495_MinimumOperationsToMakeArrayElementsZero" />
+      <config projectName="Leetcode" targetName="739_DailyTemperatures" />
+      <config projectName="Leetcode" targetName="LCR_091_JEj789" />
+      <config projectName="Leetcode" targetName="0852_PeakIndexInAMountainArray" />
+      <config projectName="Leetcode" targetName="problem-of-killing-monsters-with-knives-and-poison." />
+      <config projectName="Leetcode" targetName="0966_VowelSpellchecker" />
+      <config projectName="Leetcode" targetName="LongestSameZerosOnes" />
+      <config projectName="Leetcode" targetName="40_CombinationSumIi" />
+      <config projectName="Leetcode" targetName="0778_SwimInRisingWater" />
+      <config projectName="Leetcode" targetName="0912_SortAnArray" />
+      <config projectName="Leetcode" targetName="713_SubarrayProductLessThanK" />
+      <config projectName="Leetcode" targetName="0919_CompleteBinaryTreeInserter" />
+      <config projectName="Leetcode" targetName="3508_ImplementRouter" />
+      <config projectName="Leetcode" targetName="30_SubstringWithConcatenationOfAllWords" />
+      <config projectName="Leetcode" targetName="2_AddTwoNumbers" />
+      <config projectName="Leetcode" targetName="3446_SortMatrixByDiagonals" />
+      <config projectName="Leetcode" targetName="0378_KthSmallestElementInASortedMatrix" />
+      <config projectName="Leetcode" targetName="3516_FindClosestPerson" />
+      <config projectName="Leetcode" targetName="0347_TopKFrequentElements" />
+      <config projectName="Leetcode" targetName="125_ValidPalindrome" />
+      <config projectName="Leetcode" targetName="49_GroupAnagrams" />
+      <config projectName="Leetcode" targetName="0023_MergeKSortedLists" />
+      <config projectName="Leetcode" targetName="1675_MinimizeDeviationInArray" />
+      <config projectName="Leetcode" targetName="0719_FindKThSmallestPairDistance" />
+      <config projectName="Leetcode" targetName="19_RemoveNthNodeFromEndOfList" />
+      <config projectName="Leetcode" targetName="0093_RestoreIpAddresses" />
+      <config projectName="Leetcode" targetName="686_RepeatedStringMatch" />
+      <config projectName="Leetcode" targetName="LCR_035_Five69nqc" />
+      <config projectName="Leetcode" targetName="0035_SearchInsertPosition" />
+      <config projectName="Leetcode" targetName="415_AddStrings" />
+      <config projectName="Leetcode" targetName="78_Subsets" />
+      <config projectName="Leetcode" targetName="LCR_014_StringPermutation" />
+      <config projectName="Leetcode" targetName="1912_DesignMovieRentalSystem" />
+      <config projectName="Leetcode" targetName="0502_Ipo" />
+      <config projectName="Leetcode" targetName="0897_IncreasingOrderSearchTree" />
+      <config projectName="Leetcode" targetName="47_PermutationsIi" />
+      <config projectName="Leetcode" targetName="MissingTwoLcci" />
+      <config projectName="Leetcode" targetName="StringTest1" />
+      <config projectName="Leetcode" targetName="160_IntersectionOfTwoLinkedLists" />
+      <config projectName="Leetcode" targetName="445_AddTwoNumbersIi" />
+      <config projectName="Leetcode" targetName="0036_ValidSudoku" />
+      <config projectName="Leetcode" targetName="LCR_053_P5rCT8" />
+      <config projectName="Leetcode" targetName="141_LinkedListCycle" />
+      <config projectName="Leetcode" targetName="3027_FindTheNumberOfWaysToPlacePeopleIi" />
+      <config projectName="Leetcode" targetName="LCR_044_HPov7L" />
+      <config projectName="Leetcode" targetName="1488_AvoidFloodInTheCity" />
+      <config projectName="Leetcode" targetName="Leetcode" />
+      <config projectName="Leetcode" targetName="242_ValidAnagram" />
+      <config projectName="Leetcode" targetName="85_MaximalRectangle" />
+      <config projectName="Leetcode" targetName="3_LongestSubstringWithoutRepeatingCharacters" />
+      <config projectName="Leetcode" targetName="DivideSquare" />
+      <config projectName="Leetcode" targetName="0337_HouseRobberIii" />
+      <config projectName="Leetcode" targetName="0215_KthLargestElementInAnArray" />
+      <config projectName="Leetcode" targetName="2449_MinimumNumberOfOperationsToMakeArraysSimilar" />
+      <config projectName="Leetcode" targetName="0785_IsGraphBipartite" />
+      <config projectName="Leetcode" targetName="RandomStrings" />
+      <config projectName="Leetcode" targetName="1338_ReduceArraySizeToTheHalf" />
+      <config projectName="Leetcode" targetName="3484_DesignSpreadsheet" />
+      <config projectName="Leetcode" targetName="0045_JumpGameIi" />
+      <config projectName="Leetcode" targetName="46_Permutations" />
+      <config projectName="Leetcode" targetName="0410_SplitArrayLargestSum" />
+      <config projectName="Leetcode" targetName="0781_RabbitsInForest" />
+      <config projectName="Leetcode" targetName="0373_FindKPairsWithSmallestSums" />
+      <config projectName="Leetcode" targetName="142_LinkedListCycleIi" />
+      <config projectName="Leetcode" targetName="MinimalBatteryPower" />
+      <config projectName="Leetcode" targetName="0069_Sqrtx" />
+      <config projectName="Leetcode" targetName="0538_ConvertBstToGreaterTree" />
+      <config projectName="Leetcode" targetName="0173_BinarySearchTreeIterator" />
+      <config projectName="Leetcode" targetName="3470_PermutationsIv" />
+      <config projectName="Leetcode" targetName="3408_DesignTaskManager" />
+      <config projectName="Leetcode" targetName="0611_ValidTriangleNumber" />
+      <config projectName="Leetcode" targetName="0812_LargestTriangleArea" />
+      <config projectName="Leetcode" targetName="0746_MinCostClimbingStairs" />
+      <config projectName="Leetcode" targetName="150_EvaluateReversePolishNotation" />
+      <config projectName="Leetcode" targetName="2785_SortVowelsInAString" />
+      <config projectName="Leetcode" targetName="LCR_132_JianShengZiIiLcof" />
+      <config projectName="Leetcode" targetName="leetcode_lib" />
+      <config projectName="Leetcode" targetName="3302_FindTheLexicographicallySmallestValidSequence" />
+      <config projectName="Leetcode" targetName="LCR_024_UHnkqh" />
+      <config projectName="Leetcode" targetName="0926_FlipStringToMonotoneIncreasing" />
+      <config projectName="Leetcode" targetName="39_CombinationSum" />
+      <config projectName="Leetcode" targetName="2836_MaximizeValueOfFunctionInABallPassingGame" />
+      <config projectName="Leetcode" targetName="0540_SingleElementInASortedArray" />
+      <config projectName="Leetcode" targetName="77_Combinations" />
+      <config projectName="Leetcode" targetName="1061_LexicographicallySmallestEquivalentString" />
+      <config projectName="Leetcode" targetName="1039_MinimumScoreTriangulationOfPolygon" />
+      <config projectName="Leetcode" targetName="2013_DetectSquares" />
+      <config projectName="Leetcode" targetName="1_TwoSum" />
+      <config projectName="Leetcode" targetName="0131_PalindromePartitioning" />
+      <config projectName="Leetcode" targetName="3541_FindMostFrequentVowelAndConsonant" />
+      <config projectName="Leetcode" targetName="0814_BinaryTreePruning" />
+      <config projectName="Leetcode" targetName="609_ReaptedFilesInSystem" />
+      <config projectName="Leetcode" targetName="LCR_041_QIsx9U" />
+      <config projectName="Leetcode" targetName="735_AsteroidCollision" />
+      <config projectName="Leetcode" targetName="438_FindAllAnagramsInAString" />
+      <config projectName="Leetcode" targetName="84_LargestRectangleInHistogram" />
+      <config projectName="Leetcode" targetName="0875_KokoEatingBananas" />
+      <config projectName="Leetcode" targetName="0873_LengthOfLongestFibonacciSubsequence" />
+      <config projectName="Leetcode" targetName="2555_MaximizeWinFromTwoSegments" />
+      <config projectName="Leetcode" targetName="2751_RobotCollisions" />
+      <config projectName="Leetcode" targetName="0528_RandomPickWithWeight" />
+      <config projectName="Leetcode" targetName="0152_MaximumProductSubarray" />
+      <config projectName="Leetcode" targetName="0213_HouseRobberIi" />
+      <config projectName="Leetcode" targetName="LCR_012_Tvdfij" />
+      <config projectName="Leetcode" targetName="0179_LargestNumber" />
+      <config projectName="Leetcode" targetName="15_ThreeSum" />
+      <config projectName="Leetcode" targetName="0435_NonOverlappingIntervals" />
+      <config projectName="Leetcode" targetName="76_MinimumWindowSubstring" />
+      <config projectName="Leetcode" targetName="304_RangeSumQuery2dImmutable" />
+      <config projectName="Leetcode" targetName="380_InsertDeleteGetrandomO1" />
+      <config projectName="Leetcode" targetName="143_ReorderList" />
+      <config projectName="Leetcode" targetName="2208_MinimumOperationsToHalveArraySum" />
+      <config projectName="Leetcode" targetName="maximum-product-of-dividing-into-k-parts" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a0fa9ff-754b-43a5-9a37-69d17e371368" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/ComparatorHelper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/RandomHelper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/DivideSquare.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/LongestSameZerosOnes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/MinimalBatteryPower.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/RandomStrings.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/SortedStack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/SplitToIncreasingSequences.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interestingQuestion/StringTest1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorHelper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomHelper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/DisplayHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayHelper_copy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListOperations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListOperations.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListOperations.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/ListOperations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringOperations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOperations.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringOperations.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/StringOperations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeOperations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeOperations.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeOperations.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/TreeOperations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0093]RestoreIpAddresses.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0131]PalindromePartitioning.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0719]FindKThSmallestPairDistance.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0966]VowelSpellchecker.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting-question/maximum-product-of-dividing-into-k-parts.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/interestingQuestion/maximum-product-of-dividing-into-k-parts.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interesting-question/problem-of-killing-monsters-with-knives-and-poison..cpp" beforeDir="false" afterPath="$PROJECT_DIR$/interestingQuestion/problem-of-killing-monsters-with-knives-and-poison..cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0023]MergeKSortedLists.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0035]SearchInsertPosition.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0036]ValidSudoku.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0056]MergeIntervals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0069]Sqrtx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0093]RestoreIpAddresses.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0129]SumRootToLeafNumbers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0131]PalindromePartitioning.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0148]SortList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0152]MaximumProductSubarray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0173]BinarySearchTreeIterator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0179]LargestNumber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0198]HouseRobber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0213]HouseRobberIi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0215]KthLargestElementInAnArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0337]HouseRobberIii.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0347]TopKFrequentElements.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0373]FindKPairsWithSmallestSums.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0378]KthSmallestElementInASortedMatrix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0410]SplitArrayLargestSum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0435]NonOverlappingIntervals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0437]PathSumIii.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0502]Ipo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0528]RandomPickWithWeight.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0538]ConvertBstToGreaterTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0540]SingleElementInASortedArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0703]KthLargestElementInAStream.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0719]FindKThSmallestPairDistance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0729]MyCalendarI.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0746]MinCostClimbingStairs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0814]BinaryTreePruning.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0852]PeakIndexInAMountainArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0875]KokoEatingBananas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0897]IncreasingOrderSearchTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0912]SortAnArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0919]CompleteBinaryTreeInserter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0933]NumberOfRecentCalls.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[0966]VowelSpellchecker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1044]LongestDuplicateSubstring.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1061]LexicographicallySmallestEquivalentString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[125]ValidPalindrome.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1262]GreatestSumDivisibleByThree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1304]FindNUniqueIntegersSumUpToZero.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1317]ConvertIntegerToTheSumOfTwoNoZeroIntegers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1338]ReduceArraySizeToTheHalf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1353]MaximumNumberOfEventsThatCanBeAttended.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[141]LinkedListCycle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[142]LinkedListCycleIi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[143]ReorderList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[150]EvaluateReversePolishNotation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[15]ThreeSum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[160]IntersectionOfTwoLinkedLists.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1792]MaximumAveragePassRatio.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1912]DesignMovieRentalSystem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[19]RemoveNthNodeFromEndOfList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1]TwoSum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2208]MinimumOperationsToHalveArraySum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2327]NumberOfPeopleAwareOfASecret.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2349]DesignANumberContainerSystem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[234]PalindromeLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[242]ValidAnagram.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2555]MaximizeWinFromTwoSegments.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2751]RobotCollisions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2785]SortVowelsInAString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[2]AddTwoNumbers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3027]FindTheNumberOfWaysToPlacePeopleIi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[304]RangeSumQuery2dImmutable.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[30]SubstringWithConcatenationOfAllWords.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[30]SubstringWithConcatenationOfAllWords_mine.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3302]FindTheLexicographicallySmallestValidSequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3408]DesignTaskManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3446]SortMatrixByDiagonals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3459]最长 V 形对角线段的长度.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3470]PermutationsIv.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3484]DesignSpreadsheet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3495]MinimumOperationsToMakeArrayElementsZero.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3508]ImplementRouter.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3516]FindClosestPerson.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3541]FindMostFrequentVowelAndConsonant.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[37]SudokuSolver.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[37]SudokuSolver_wrong.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[380]InsertDeleteGetrandomO1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[39]CombinationSum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[3]LongestSubstringWithoutRepeatingCharacters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[40]CombinationSumIi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[415]AddStrings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[438]FindAllAnagramsInAString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[43]MultiplyStrings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[445]AddTwoNumbersIi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[46]Permutations.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[47]PermutationsIi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[49]GroupAnagrams.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[513]FindBottomLeftTreeValue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[515]FindLargestValueInEachTreeRow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[609]在系统中查找重复文件.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[686]RepeatedStringMatch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[713]SubarrayProductLessThanK.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[735]AsteroidCollision.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[739]DailyTemperatures.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[76]MinimumWindowSubstring.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[77]Combinations.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[78]Subsets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[84]LargestRectangleInHistogram.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[85]MaximalRectangle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 012]Tvdfij.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 014]字符串的排列.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 017]M1oyTv.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 024]UHnkqh.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 029]FourUeAj6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 035]Five69nqc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 041]QIsx9U.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 044]HPov7L.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 053]P5rCT8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 132]JianShengZiIiLcof.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 17.19]MissingTwoLcci.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0023]MergeKSortedLists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0035]SearchInsertPosition.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0036]ValidSudoku.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0056]MergeIntervals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0069]Sqrtx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0093]RestoreIpAddresses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0129]SumRootToLeafNumbers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0131]PalindromePartitioning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0148]SortList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0152]MaximumProductSubarray.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0173]BinarySearchTreeIterator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0179]LargestNumber.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0198]HouseRobber.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0213]HouseRobberIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0215]KthLargestElementInAnArray.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0337]HouseRobberIii.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0347]TopKFrequentElements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0373]FindKPairsWithSmallestSums.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0378]KthSmallestElementInASortedMatrix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0410]SplitArrayLargestSum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0435]NonOverlappingIntervals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0437]PathSumIii.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0502]Ipo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0528]RandomPickWithWeight.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0538]ConvertBstToGreaterTree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0540]SingleElementInASortedArray.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0703]KthLargestElementInAStream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0719]FindKThSmallestPairDistance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0729]MyCalendarI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0746]MinCostClimbingStairs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0814]BinaryTreePruning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0852]PeakIndexInAMountainArray.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0875]KokoEatingBananas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0897]IncreasingOrderSearchTree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0912]SortAnArray.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0919]CompleteBinaryTreeInserter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0933]NumberOfRecentCalls.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[0966]VowelSpellchecker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1044]LongestDuplicateSubstring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1061]LexicographicallySmallestEquivalentString.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[125]ValidPalindrome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1262]GreatestSumDivisibleByThree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1304]FindNUniqueIntegersSumUpToZero.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1317]ConvertIntegerToTheSumOfTwoNoZeroIntegers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1338]ReduceArraySizeToTheHalf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1353]MaximumNumberOfEventsThatCanBeAttended.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[141]LinkedListCycle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[142]LinkedListCycleIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[143]ReorderList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[150]EvaluateReversePolishNotation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[15]ThreeSum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[160]IntersectionOfTwoLinkedLists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1792]MaximumAveragePassRatio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1912]DesignMovieRentalSystem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[19]RemoveNthNodeFromEndOfList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1]TwoSum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2208]MinimumOperationsToHalveArraySum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2327]NumberOfPeopleAwareOfASecret.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2349]DesignANumberContainerSystem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[234]PalindromeLinkedList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[242]ValidAnagram.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2555]MaximizeWinFromTwoSegments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2751]RobotCollisions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2785]SortVowelsInAString.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2]AddTwoNumbers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3027]FindTheNumberOfWaysToPlacePeopleIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[304]RangeSumQuery2dImmutable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[30]SubstringWithConcatenationOfAllWords.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3302]FindTheLexicographicallySmallestValidSequence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3408]DesignTaskManager.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3446]SortMatrixByDiagonals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3459]最长 V 形对角线段的长度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3470]PermutationsIv.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3484]DesignSpreadsheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3495]MinimumOperationsToMakeArrayElementsZero.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3508]ImplementRouter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3516]FindClosestPerson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3541]FindMostFrequentVowelAndConsonant.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[37]SudokuSolver.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[380]InsertDeleteGetrandomO1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[39]CombinationSum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3]LongestSubstringWithoutRepeatingCharacters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[40]CombinationSumIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[415]AddStrings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[438]FindAllAnagramsInAString.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[43]MultiplyStrings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[445]AddTwoNumbersIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[46]Permutations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[47]PermutationsIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[49]GroupAnagrams.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[513]FindBottomLeftTreeValue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[515]FindLargestValueInEachTreeRow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[609]在系统中查找重复文件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[686]RepeatedStringMatch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[713]SubarrayProductLessThanK.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[735]AsteroidCollision.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[739]DailyTemperatures.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[76]MinimumWindowSubstring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[77]Combinations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[78]Subsets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[84]LargestRectangleInHistogram.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[85]MaximalRectangle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 007]三数之和_1fGaJU.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 012]Tvdfij.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 014]字符串的排列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 017]M1oyTv.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 024]UHnkqh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 029]FourUeAj6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 035]Five69nqc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 041]QIsx9U.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 044]HPov7L.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 053]P5rCT8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 132]JianShengZiIiLcof.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[面试题 17.19]MissingTwoLcci.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/doc/note/[609]在系统中查找重复文件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maximum-product-of-dividing-into-k-parts.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nowcoder/MySort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/nowcoder/MySort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+        <option value="C++ Leetcode Source Template" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lawsums&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1e320e63-1e55-4d10-ab78-b2c6c9686208" />
+        <option name="url" value="https://github.com/lawsums/Leetcode-cpp.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.6" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33CCJYG7ZlZTnDXW9c4GzoKYcVp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.0926_FlipStringToMonotoneIncreasing.cpp.executor": "Run",
+    "C/C++ File.1039_MinimumScoreTriangulationOfPolygon.cpp.executor": "Debug",
+    "C/C++ File.1488_AvoidFloodInTheCity.cpp.executor": "Debug",
+    "C/C++ File.ComparatorHelper.cpp.executor": "Run",
+    "CMake Application.0045_JumpGameIi.executor": "Run",
+    "CMake Application.0926_FlipStringToMonotoneIncreasing.executor": "Run",
+    "CMake Application.1039_MinimumScoreTriangulationOfPolygon.executor": "Run",
+    "CMake Application.1488_AvoidFloodInTheCity.executor": "Debug",
+    "CMake Application.15_ThreeSum.executor": "Run",
+    "CMake Application.1_TwoSum.executor": "Run",
+    "CMake Application.LCR_091_JEj789.executor": "Run",
+    "CMake Application.MinimalBatteryPower.executor": "Run",
+    "CMake Application.RandomStrings.executor": "Run",
+    "CMake Application.SplitToIncreasingSequences.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "leetcode.id",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.1488_AvoidFloodInTheCity">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0023_MergeKSortedLists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0023_MergeKSortedLists" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0023_MergeKSortedLists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0035_SearchInsertPosition" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0035_SearchInsertPosition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0035_SearchInsertPosition">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0036_ValidSudoku" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0036_ValidSudoku" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0036_ValidSudoku">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0045_JumpGameIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0045_JumpGameIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0045_JumpGameIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0056_MergeIntervals" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0056_MergeIntervals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0056_MergeIntervals">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0069_Sqrtx" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0069_Sqrtx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0069_Sqrtx">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0093_RestoreIpAddresses" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0093_RestoreIpAddresses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0093_RestoreIpAddresses">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0120_Triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0120_Triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0120_Triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0129_SumRootToLeafNumbers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0129_SumRootToLeafNumbers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0129_SumRootToLeafNumbers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0131_PalindromePartitioning" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0131_PalindromePartitioning" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0131_PalindromePartitioning">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0148_SortList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0148_SortList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0148_SortList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0152_MaximumProductSubarray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0152_MaximumProductSubarray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0152_MaximumProductSubarray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0173_BinarySearchTreeIterator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0173_BinarySearchTreeIterator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0173_BinarySearchTreeIterator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0179_LargestNumber" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0179_LargestNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0179_LargestNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0198_HouseRobber" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0198_HouseRobber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0198_HouseRobber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0213_HouseRobberIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0213_HouseRobberIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0213_HouseRobberIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0215_KthLargestElementInAnArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0215_KthLargestElementInAnArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0215_KthLargestElementInAnArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0337_HouseRobberIii" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0337_HouseRobberIii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0337_HouseRobberIii">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0347_TopKFrequentElements" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0347_TopKFrequentElements" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0347_TopKFrequentElements">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0373_FindKPairsWithSmallestSums" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0373_FindKPairsWithSmallestSums" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0373_FindKPairsWithSmallestSums">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0378_KthSmallestElementInASortedMatrix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0378_KthSmallestElementInASortedMatrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0378_KthSmallestElementInASortedMatrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0410_SplitArrayLargestSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0410_SplitArrayLargestSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0410_SplitArrayLargestSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0435_NonOverlappingIntervals" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0435_NonOverlappingIntervals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0435_NonOverlappingIntervals">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0437_PathSumIii" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0437_PathSumIii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0437_PathSumIii">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0502_Ipo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0502_Ipo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0502_Ipo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0528_RandomPickWithWeight" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0528_RandomPickWithWeight" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0528_RandomPickWithWeight">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0538_ConvertBstToGreaterTree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0538_ConvertBstToGreaterTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0538_ConvertBstToGreaterTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0540_SingleElementInASortedArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0540_SingleElementInASortedArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0540_SingleElementInASortedArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0611_ValidTriangleNumber" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0611_ValidTriangleNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0611_ValidTriangleNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0703_KthLargestElementInAStream" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0703_KthLargestElementInAStream" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0703_KthLargestElementInAStream">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0719_FindKThSmallestPairDistance" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0719_FindKThSmallestPairDistance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0719_FindKThSmallestPairDistance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0729_MyCalendarI" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0729_MyCalendarI" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0729_MyCalendarI">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0746_MinCostClimbingStairs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0746_MinCostClimbingStairs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0746_MinCostClimbingStairs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0778_SwimInRisingWater" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0778_SwimInRisingWater" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0778_SwimInRisingWater">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0781_RabbitsInForest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0781_RabbitsInForest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0781_RabbitsInForest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0785_IsGraphBipartite" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0785_IsGraphBipartite" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0785_IsGraphBipartite">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0812_LargestTriangleArea" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0812_LargestTriangleArea" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0812_LargestTriangleArea">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0814_BinaryTreePruning" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0814_BinaryTreePruning" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0814_BinaryTreePruning">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0852_PeakIndexInAMountainArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0852_PeakIndexInAMountainArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0852_PeakIndexInAMountainArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0873_LengthOfLongestFibonacciSubsequence" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0873_LengthOfLongestFibonacciSubsequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0873_LengthOfLongestFibonacciSubsequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0875_KokoEatingBananas" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0875_KokoEatingBananas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0875_KokoEatingBananas">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0897_IncreasingOrderSearchTree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0897_IncreasingOrderSearchTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0897_IncreasingOrderSearchTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0912_SortAnArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0912_SortAnArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0912_SortAnArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0919_CompleteBinaryTreeInserter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0919_CompleteBinaryTreeInserter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0919_CompleteBinaryTreeInserter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0926_FlipStringToMonotoneIncreasing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0926_FlipStringToMonotoneIncreasing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0926_FlipStringToMonotoneIncreasing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0933_NumberOfRecentCalls" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0933_NumberOfRecentCalls" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0933_NumberOfRecentCalls">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0966_VowelSpellchecker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0966_VowelSpellchecker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="0966_VowelSpellchecker">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1039_MinimumScoreTriangulationOfPolygon" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1039_MinimumScoreTriangulationOfPolygon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1039_MinimumScoreTriangulationOfPolygon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1044_LongestDuplicateSubstring" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1044_LongestDuplicateSubstring" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1044_LongestDuplicateSubstring">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1061_LexicographicallySmallestEquivalentString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1061_LexicographicallySmallestEquivalentString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1061_LexicographicallySmallestEquivalentString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="125_ValidPalindrome" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="125_ValidPalindrome" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="125_ValidPalindrome">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1262_GreatestSumDivisibleByThree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1262_GreatestSumDivisibleByThree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1262_GreatestSumDivisibleByThree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1304_FindNUniqueIntegersSumUpToZero" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1304_FindNUniqueIntegersSumUpToZero" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1304_FindNUniqueIntegersSumUpToZero">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1338_ReduceArraySizeToTheHalf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1338_ReduceArraySizeToTheHalf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1338_ReduceArraySizeToTheHalf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1353_MaximumNumberOfEventsThatCanBeAttended" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1353_MaximumNumberOfEventsThatCanBeAttended" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1353_MaximumNumberOfEventsThatCanBeAttended">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="141_LinkedListCycle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="141_LinkedListCycle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="141_LinkedListCycle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="142_LinkedListCycleIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="142_LinkedListCycleIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="142_LinkedListCycleIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="143_ReorderList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="143_ReorderList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="143_ReorderList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1488_AvoidFloodInTheCity" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1488_AvoidFloodInTheCity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1488_AvoidFloodInTheCity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="150_EvaluateReversePolishNotation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="150_EvaluateReversePolishNotation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="150_EvaluateReversePolishNotation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="15_ThreeSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="15_ThreeSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="15_ThreeSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="160_IntersectionOfTwoLinkedLists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="160_IntersectionOfTwoLinkedLists" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="160_IntersectionOfTwoLinkedLists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1675_MinimizeDeviationInArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1675_MinimizeDeviationInArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1675_MinimizeDeviationInArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1792_MaximumAveragePassRatio" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1792_MaximumAveragePassRatio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1792_MaximumAveragePassRatio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1912_DesignMovieRentalSystem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1912_DesignMovieRentalSystem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1912_DesignMovieRentalSystem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="19_RemoveNthNodeFromEndOfList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="19_RemoveNthNodeFromEndOfList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="19_RemoveNthNodeFromEndOfList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1_TwoSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1_TwoSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="1_TwoSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2013_DetectSquares" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2013_DetectSquares" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2013_DetectSquares">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2208_MinimumOperationsToHalveArraySum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2208_MinimumOperationsToHalveArraySum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2208_MinimumOperationsToHalveArraySum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2327_NumberOfPeopleAwareOfASecret" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2327_NumberOfPeopleAwareOfASecret" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2327_NumberOfPeopleAwareOfASecret">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2349_DesignANumberContainerSystem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2349_DesignANumberContainerSystem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2349_DesignANumberContainerSystem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="234_PalindromeLinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="234_PalindromeLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="234_PalindromeLinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="242_ValidAnagram" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="242_ValidAnagram" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="242_ValidAnagram">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2449_MinimumNumberOfOperationsToMakeArraysSimilar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2449_MinimumNumberOfOperationsToMakeArraysSimilar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2449_MinimumNumberOfOperationsToMakeArraysSimilar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2555_MaximizeWinFromTwoSegments" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2555_MaximizeWinFromTwoSegments" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2555_MaximizeWinFromTwoSegments">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2751_RobotCollisions" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2751_RobotCollisions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2751_RobotCollisions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2785_SortVowelsInAString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2785_SortVowelsInAString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2785_SortVowelsInAString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2836_MaximizeValueOfFunctionInABallPassingGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2836_MaximizeValueOfFunctionInABallPassingGame" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2836_MaximizeValueOfFunctionInABallPassingGame">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2_AddTwoNumbers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="2_AddTwoNumbers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="2_AddTwoNumbers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3027_FindTheNumberOfWaysToPlacePeopleIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3027_FindTheNumberOfWaysToPlacePeopleIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3027_FindTheNumberOfWaysToPlacePeopleIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="304_RangeSumQuery2dImmutable" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="304_RangeSumQuery2dImmutable" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="304_RangeSumQuery2dImmutable">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="30_SubstringWithConcatenationOfAllWords" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="30_SubstringWithConcatenationOfAllWords" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="30_SubstringWithConcatenationOfAllWords">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="30_SubstringWithConcatenationOfAllWords_mine" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="30_SubstringWithConcatenationOfAllWords_mine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="30_SubstringWithConcatenationOfAllWords_mine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3302_FindTheLexicographicallySmallestValidSequence" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3302_FindTheLexicographicallySmallestValidSequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3302_FindTheLexicographicallySmallestValidSequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3408_DesignTaskManager" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3408_DesignTaskManager" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3408_DesignTaskManager">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3446_SortMatrixByDiagonals" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3446_SortMatrixByDiagonals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3446_SortMatrixByDiagonals">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3453_SeparateSquaresI" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3453_SeparateSquaresI" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3453_SeparateSquaresI">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3459_LongestVShapeDigonal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3459_LongestVShapeDigonal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3459_LongestVShapeDigonal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3470_PermutationsIv" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3470_PermutationsIv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3470_PermutationsIv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3484_DesignSpreadsheet" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3484_DesignSpreadsheet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3484_DesignSpreadsheet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3495_MinimumOperationsToMakeArrayElementsZero" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3495_MinimumOperationsToMakeArrayElementsZero" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3495_MinimumOperationsToMakeArrayElementsZero">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3508_ImplementRouter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3508_ImplementRouter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3508_ImplementRouter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3516_FindClosestPerson" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3516_FindClosestPerson" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3516_FindClosestPerson">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3541_FindMostFrequentVowelAndConsonant" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3541_FindMostFrequentVowelAndConsonant" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3541_FindMostFrequentVowelAndConsonant">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="37_SudokuSolver" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="37_SudokuSolver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="37_SudokuSolver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="37_SudokuSolver_wrong" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="37_SudokuSolver_wrong" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="37_SudokuSolver_wrong">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="380_InsertDeleteGetrandomO1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="380_InsertDeleteGetrandomO1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="380_InsertDeleteGetrandomO1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="39_CombinationSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="39_CombinationSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="39_CombinationSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3_LongestSubstringWithoutRepeatingCharacters" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="3_LongestSubstringWithoutRepeatingCharacters" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="3_LongestSubstringWithoutRepeatingCharacters">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="40_CombinationSumIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="40_CombinationSumIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="40_CombinationSumIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="415_AddStrings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="415_AddStrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="415_AddStrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="438_FindAllAnagramsInAString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="438_FindAllAnagramsInAString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="438_FindAllAnagramsInAString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="43_MultiplyStrings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="43_MultiplyStrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="43_MultiplyStrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="445_AddTwoNumbersIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="445_AddTwoNumbersIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="445_AddTwoNumbersIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="46_Permutations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="46_Permutations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="46_Permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="47_PermutationsIi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="47_PermutationsIi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="47_PermutationsIi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="49_GroupAnagrams" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="49_GroupAnagrams" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="49_GroupAnagrams">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="513_FindBottomLeftTreeValue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="513_FindBottomLeftTreeValue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="513_FindBottomLeftTreeValue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="515_FindLargestValueInEachTreeRow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="515_FindLargestValueInEachTreeRow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="515_FindLargestValueInEachTreeRow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="609_ReaptedFilesInSystem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="609_ReaptedFilesInSystem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="609_ReaptedFilesInSystem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="686_RepeatedStringMatch" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="686_RepeatedStringMatch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="686_RepeatedStringMatch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="713_SubarrayProductLessThanK" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="713_SubarrayProductLessThanK" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="713_SubarrayProductLessThanK">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="735_AsteroidCollision" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="735_AsteroidCollision" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="735_AsteroidCollision">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="739_DailyTemperatures" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="739_DailyTemperatures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="739_DailyTemperatures">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="76_MinimumWindowSubstring" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="76_MinimumWindowSubstring" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="76_MinimumWindowSubstring">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="77_Combinations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="77_Combinations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="77_Combinations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="78_Subsets" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="78_Subsets" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="78_Subsets">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="84_LargestRectangleInHistogram" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="84_LargestRectangleInHistogram" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="84_LargestRectangleInHistogram">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="85_MaximalRectangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="85_MaximalRectangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="85_MaximalRectangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideSquare" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="DivideSquare" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="DivideSquare">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_012_Tvdfij" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_012_Tvdfij" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_012_Tvdfij">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_014_StringPermutation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_014_StringPermutation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_014_StringPermutation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_017_M1oyTv" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_017_M1oyTv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_017_M1oyTv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_024_UHnkqh" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_024_UHnkqh" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_024_UHnkqh">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_029_FourUeAj6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_029_FourUeAj6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_029_FourUeAj6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_035_Five69nqc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_035_Five69nqc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_035_Five69nqc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_041_QIsx9U" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_041_QIsx9U" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_041_QIsx9U">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_044_HPov7L" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_044_HPov7L" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_044_HPov7L">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_053_P5rCT8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_053_P5rCT8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_053_P5rCT8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_091_JEj789" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_091_JEj789" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_091_JEj789">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCR_132_JianShengZiIiLcof" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LCR_132_JianShengZiIiLcof" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LCR_132_JianShengZiIiLcof">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="Leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="Leetcode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSameZerosOnes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="LongestSameZerosOnes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="LongestSameZerosOnes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimalBatteryPower" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="MinimalBatteryPower" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="MinimalBatteryPower">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingTwoLcci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="MissingTwoLcci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="MissingTwoLcci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomStrings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="RandomStrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="RandomStrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedStack" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="SortedStack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="SortedStack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitToIncreasingSequences" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="SplitToIncreasingSequences" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="SplitToIncreasingSequences">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="StringTest1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="StringTest1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="leetcode_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maximum-product-of-dividing-into-k-parts" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="maximum-product-of-dividing-into-k-parts" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="maximum-product-of-dividing-into-k-parts">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem-of-killing-monsters-with-knives-and-poison." type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="problem-of-killing-monsters-with-knives-and-poison." CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="problem-of-killing-monsters-with-knives-and-poison.">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0926_FlipStringToMonotoneIncreasing.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="0926_FlipStringToMonotoneIncreasing.cpp" CONFIG_NAME="0926_FlipStringToMonotoneIncreasing.cpp">
+      <option name="sourceFile" value="leetcode\editor\cn\0926_FlipStringToMonotoneIncreasing.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1039_MinimumScoreTriangulationOfPolygon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1039_MinimumScoreTriangulationOfPolygon.cpp" CONFIG_NAME="1039_MinimumScoreTriangulationOfPolygon.cpp">
+      <option name="sourceFile" value="leetcode\editor\cn\1039_MinimumScoreTriangulationOfPolygon.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1488_AvoidFloodInTheCity.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="1488_AvoidFloodInTheCity.cpp" CONFIG_NAME="1488_AvoidFloodInTheCity.cpp">
+      <option name="sourceFile" value="leetcode\editor\cn\1488_AvoidFloodInTheCity.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorHelper.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="ComparatorHelper.cpp" CONFIG_NAME="ComparatorHelper.cpp">
+      <option name="sourceFile" value="src\ComparatorHelper.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.1488_AvoidFloodInTheCity.cpp" />
+      <item itemvalue="C/C++ File.0926_FlipStringToMonotoneIncreasing.cpp" />
+      <item itemvalue="C/C++ File.1039_MinimumScoreTriangulationOfPolygon.cpp" />
+      <item itemvalue="C/C++ File.ComparatorHelper.cpp" />
+      <item itemvalue="CMake Application.0023_MergeKSortedLists" />
+      <item itemvalue="CMake Application.0035_SearchInsertPosition" />
+      <item itemvalue="CMake Application.0036_ValidSudoku" />
+      <item itemvalue="CMake Application.0045_JumpGameIi" />
+      <item itemvalue="CMake Application.0056_MergeIntervals" />
+      <item itemvalue="CMake Application.0069_Sqrtx" />
+      <item itemvalue="CMake Application.0093_RestoreIpAddresses" />
+      <item itemvalue="CMake Application.0120_Triangle" />
+      <item itemvalue="CMake Application.0129_SumRootToLeafNumbers" />
+      <item itemvalue="CMake Application.0131_PalindromePartitioning" />
+      <item itemvalue="CMake Application.0148_SortList" />
+      <item itemvalue="CMake Application.0152_MaximumProductSubarray" />
+      <item itemvalue="CMake Application.0173_BinarySearchTreeIterator" />
+      <item itemvalue="CMake Application.0179_LargestNumber" />
+      <item itemvalue="CMake Application.0198_HouseRobber" />
+      <item itemvalue="CMake Application.0213_HouseRobberIi" />
+      <item itemvalue="CMake Application.0215_KthLargestElementInAnArray" />
+      <item itemvalue="CMake Application.0337_HouseRobberIii" />
+      <item itemvalue="CMake Application.0347_TopKFrequentElements" />
+      <item itemvalue="CMake Application.0373_FindKPairsWithSmallestSums" />
+      <item itemvalue="CMake Application.0378_KthSmallestElementInASortedMatrix" />
+      <item itemvalue="CMake Application.0410_SplitArrayLargestSum" />
+      <item itemvalue="CMake Application.0435_NonOverlappingIntervals" />
+      <item itemvalue="CMake Application.0437_PathSumIii" />
+      <item itemvalue="CMake Application.0502_Ipo" />
+      <item itemvalue="CMake Application.0528_RandomPickWithWeight" />
+      <item itemvalue="CMake Application.0538_ConvertBstToGreaterTree" />
+      <item itemvalue="CMake Application.0540_SingleElementInASortedArray" />
+      <item itemvalue="CMake Application.0611_ValidTriangleNumber" />
+      <item itemvalue="CMake Application.0703_KthLargestElementInAStream" />
+      <item itemvalue="CMake Application.0719_FindKThSmallestPairDistance" />
+      <item itemvalue="CMake Application.0729_MyCalendarI" />
+      <item itemvalue="CMake Application.0746_MinCostClimbingStairs" />
+      <item itemvalue="CMake Application.0778_SwimInRisingWater" />
+      <item itemvalue="CMake Application.0781_RabbitsInForest" />
+      <item itemvalue="CMake Application.0785_IsGraphBipartite" />
+      <item itemvalue="CMake Application.0812_LargestTriangleArea" />
+      <item itemvalue="CMake Application.0814_BinaryTreePruning" />
+      <item itemvalue="CMake Application.0852_PeakIndexInAMountainArray" />
+      <item itemvalue="CMake Application.0873_LengthOfLongestFibonacciSubsequence" />
+      <item itemvalue="CMake Application.0875_KokoEatingBananas" />
+      <item itemvalue="CMake Application.0897_IncreasingOrderSearchTree" />
+      <item itemvalue="CMake Application.0912_SortAnArray" />
+      <item itemvalue="CMake Application.0919_CompleteBinaryTreeInserter" />
+      <item itemvalue="CMake Application.0926_FlipStringToMonotoneIncreasing" />
+      <item itemvalue="CMake Application.0933_NumberOfRecentCalls" />
+      <item itemvalue="CMake Application.0966_VowelSpellchecker" />
+      <item itemvalue="CMake Application.1039_MinimumScoreTriangulationOfPolygon" />
+      <item itemvalue="CMake Application.1044_LongestDuplicateSubstring" />
+      <item itemvalue="CMake Application.1061_LexicographicallySmallestEquivalentString" />
+      <item itemvalue="CMake Application.125_ValidPalindrome" />
+      <item itemvalue="CMake Application.1262_GreatestSumDivisibleByThree" />
+      <item itemvalue="CMake Application.1304_FindNUniqueIntegersSumUpToZero" />
+      <item itemvalue="CMake Application.1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers" />
+      <item itemvalue="CMake Application.1338_ReduceArraySizeToTheHalf" />
+      <item itemvalue="CMake Application.1353_MaximumNumberOfEventsThatCanBeAttended" />
+      <item itemvalue="CMake Application.141_LinkedListCycle" />
+      <item itemvalue="CMake Application.142_LinkedListCycleIi" />
+      <item itemvalue="CMake Application.143_ReorderList" />
+      <item itemvalue="CMake Application.1488_AvoidFloodInTheCity" />
+      <item itemvalue="CMake Application.150_EvaluateReversePolishNotation" />
+      <item itemvalue="CMake Application.15_ThreeSum" />
+      <item itemvalue="CMake Application.160_IntersectionOfTwoLinkedLists" />
+      <item itemvalue="CMake Application.1675_MinimizeDeviationInArray" />
+      <item itemvalue="CMake Application.1792_MaximumAveragePassRatio" />
+      <item itemvalue="CMake Application.1912_DesignMovieRentalSystem" />
+      <item itemvalue="CMake Application.19_RemoveNthNodeFromEndOfList" />
+      <item itemvalue="CMake Application.1_TwoSum" />
+      <item itemvalue="CMake Application.2013_DetectSquares" />
+      <item itemvalue="CMake Application.2208_MinimumOperationsToHalveArraySum" />
+      <item itemvalue="CMake Application.2327_NumberOfPeopleAwareOfASecret" />
+      <item itemvalue="CMake Application.2349_DesignANumberContainerSystem" />
+      <item itemvalue="CMake Application.234_PalindromeLinkedList" />
+      <item itemvalue="CMake Application.242_ValidAnagram" />
+      <item itemvalue="CMake Application.2449_MinimumNumberOfOperationsToMakeArraysSimilar" />
+      <item itemvalue="CMake Application.2555_MaximizeWinFromTwoSegments" />
+      <item itemvalue="CMake Application.2751_RobotCollisions" />
+      <item itemvalue="CMake Application.2785_SortVowelsInAString" />
+      <item itemvalue="CMake Application.2836_MaximizeValueOfFunctionInABallPassingGame" />
+      <item itemvalue="CMake Application.2_AddTwoNumbers" />
+      <item itemvalue="CMake Application.3027_FindTheNumberOfWaysToPlacePeopleIi" />
+      <item itemvalue="CMake Application.304_RangeSumQuery2dImmutable" />
+      <item itemvalue="CMake Application.30_SubstringWithConcatenationOfAllWords" />
+      <item itemvalue="CMake Application.30_SubstringWithConcatenationOfAllWords_mine" />
+      <item itemvalue="CMake Application.3302_FindTheLexicographicallySmallestValidSequence" />
+      <item itemvalue="CMake Application.3408_DesignTaskManager" />
+      <item itemvalue="CMake Application.3446_SortMatrixByDiagonals" />
+      <item itemvalue="CMake Application.3453_SeparateSquaresI" />
+      <item itemvalue="CMake Application.3459_LongestVShapeDigonal" />
+      <item itemvalue="CMake Application.3470_PermutationsIv" />
+      <item itemvalue="CMake Application.3484_DesignSpreadsheet" />
+      <item itemvalue="CMake Application.3495_MinimumOperationsToMakeArrayElementsZero" />
+      <item itemvalue="CMake Application.3508_ImplementRouter" />
+      <item itemvalue="CMake Application.3516_FindClosestPerson" />
+      <item itemvalue="CMake Application.3541_FindMostFrequentVowelAndConsonant" />
+      <item itemvalue="CMake Application.37_SudokuSolver" />
+      <item itemvalue="CMake Application.37_SudokuSolver_wrong" />
+      <item itemvalue="CMake Application.380_InsertDeleteGetrandomO1" />
+      <item itemvalue="CMake Application.39_CombinationSum" />
+      <item itemvalue="CMake Application.3_LongestSubstringWithoutRepeatingCharacters" />
+      <item itemvalue="CMake Application.40_CombinationSumIi" />
+      <item itemvalue="CMake Application.415_AddStrings" />
+      <item itemvalue="CMake Application.438_FindAllAnagramsInAString" />
+      <item itemvalue="CMake Application.43_MultiplyStrings" />
+      <item itemvalue="CMake Application.445_AddTwoNumbersIi" />
+      <item itemvalue="CMake Application.46_Permutations" />
+      <item itemvalue="CMake Application.47_PermutationsIi" />
+      <item itemvalue="CMake Application.49_GroupAnagrams" />
+      <item itemvalue="CMake Application.513_FindBottomLeftTreeValue" />
+      <item itemvalue="CMake Application.515_FindLargestValueInEachTreeRow" />
+      <item itemvalue="CMake Application.609_ReaptedFilesInSystem" />
+      <item itemvalue="CMake Application.686_RepeatedStringMatch" />
+      <item itemvalue="CMake Application.713_SubarrayProductLessThanK" />
+      <item itemvalue="CMake Application.735_AsteroidCollision" />
+      <item itemvalue="CMake Application.739_DailyTemperatures" />
+      <item itemvalue="CMake Application.76_MinimumWindowSubstring" />
+      <item itemvalue="CMake Application.77_Combinations" />
+      <item itemvalue="CMake Application.78_Subsets" />
+      <item itemvalue="CMake Application.84_LargestRectangleInHistogram" />
+      <item itemvalue="CMake Application.85_MaximalRectangle" />
+      <item itemvalue="CMake Application.DivideSquare" />
+      <item itemvalue="CMake Application.LCR_012_Tvdfij" />
+      <item itemvalue="CMake Application.LCR_014_StringPermutation" />
+      <item itemvalue="CMake Application.LCR_017_M1oyTv" />
+      <item itemvalue="CMake Application.LCR_024_UHnkqh" />
+      <item itemvalue="CMake Application.LCR_029_FourUeAj6" />
+      <item itemvalue="CMake Application.LCR_035_Five69nqc" />
+      <item itemvalue="CMake Application.LCR_041_QIsx9U" />
+      <item itemvalue="CMake Application.LCR_044_HPov7L" />
+      <item itemvalue="CMake Application.LCR_053_P5rCT8" />
+      <item itemvalue="CMake Application.LCR_091_JEj789" />
+      <item itemvalue="CMake Application.LCR_132_JianShengZiIiLcof" />
+      <item itemvalue="CMake Application.Leetcode" />
+      <item itemvalue="CMake Application.LongestSameZerosOnes" />
+      <item itemvalue="CMake Application.MinimalBatteryPower" />
+      <item itemvalue="CMake Application.MissingTwoLcci" />
+      <item itemvalue="CMake Application.RandomStrings" />
+      <item itemvalue="CMake Application.SortedStack" />
+      <item itemvalue="CMake Application.SplitToIncreasingSequences" />
+      <item itemvalue="CMake Application.StringTest1" />
+      <item itemvalue="CMake Application.leetcode_lib" />
+      <item itemvalue="CMake Application.maximum-product-of-dividing-into-k-parts" />
+      <item itemvalue="CMake Application.problem-of-killing-monsters-with-knives-and-poison." />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.1488_AvoidFloodInTheCity.cpp" />
+        <item itemvalue="C/C++ File.1039_MinimumScoreTriangulationOfPolygon.cpp" />
+        <item itemvalue="C/C++ File.0926_FlipStringToMonotoneIncreasing.cpp" />
+        <item itemvalue="C/C++ File.ComparatorHelper.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0fa9ff-754b-43a5-9a37-69d17e371368" name="Changes" comment="" />
+      <created>1758811595445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758811595445</updated>
+      <workItem from="1758811596700" duration="726000" />
+      <workItem from="1758812337470" duration="749000" />
+      <workItem from="1758813101150" duration="83000" />
+      <workItem from="1758851858611" duration="998000" />
+      <workItem from="1758860145913" duration="2582000" />
+      <workItem from="1758877119440" duration="2585000" />
+      <workItem from="1758879721339" duration="2608000" />
+      <workItem from="1758902855569" duration="3670000" />
+      <workItem from="1758941391347" duration="596000" />
+      <workItem from="1758967156804" duration="3278000" />
+      <workItem from="1759030208513" duration="3861000" />
+      <workItem from="1759070418280" duration="181000" />
+      <workItem from="1759070657556" duration="811000" />
+      <workItem from="1759080756890" duration="1967000" />
+      <workItem from="1759147237829" duration="4299000" />
+      <workItem from="1759683841872" duration="168000" />
+      <workItem from="1759744187156" duration="3946000" />
+      <workItem from="1759804170825" duration="1751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/0926_FlipStringToMonotoneIncreasing.cpp</url>
+          <line>83</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/0926_FlipStringToMonotoneIncreasing.cpp</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/0045_JumpGameIi.cpp</url>
+          <line>73</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/0045_JumpGameIi.cpp</url>
+          <line>89</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/1039_MinimumScoreTriangulationOfPolygon.cpp</url>
+          <line>136</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/1039_MinimumScoreTriangulationOfPolygon.cpp</url>
+          <line>110</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/1488_AvoidFloodInTheCity.cpp</url>
+          <line>137</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/1488_AvoidFloodInTheCity.cpp</url>
+          <line>94</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/1488_AvoidFloodInTheCity.cpp</url>
+          <line>111</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
