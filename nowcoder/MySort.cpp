@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <numeric>
 
-#include "../DisplayHelper.h"
+#include "../include/DisplayHelper.h"
 using namespace display;
 using namespace std;
 
