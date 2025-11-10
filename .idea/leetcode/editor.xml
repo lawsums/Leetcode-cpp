@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/0460_LfuCache.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/0460_LfuCache.md" />
+              <option name="frontendQuestionId" value="leetcode.cn460" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/0460_LfuCache.cpp" />
+              <option name="titleSlug" value="lfu-cache" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/0611_ValidTriangleNumber.cpp">
           <value>
             <LeetcodeEditor>
@@ -102,6 +113,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/1046_LastStoneWeight.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/1046_LastStoneWeight.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1046" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/1046_LastStoneWeight.cpp" />
+              <option name="titleSlug" value="last-stone-weight" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/1358_NumberOfSubstringsContainingAllThreeCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1358" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.cpp" />
+              <option name="titleSlug" value="number-of-substrings-containing-all-three-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/1400_ConstructKPalindromeStrings.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/1400_ConstructKPalindromeStrings.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1400" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/1400_ConstructKPalindromeStrings.cpp" />
+              <option name="titleSlug" value="construct-k-palindrome-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/1488_AvoidFloodInTheCity.cpp">
           <value>
             <LeetcodeEditor>
@@ -124,6 +168,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/1834_SingleThreadedCpu.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/1834_SingleThreadedCpu.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1834" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/1834_SingleThreadedCpu.cpp" />
+              <option name="titleSlug" value="single-threaded-cpu" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/1942_TheNumberOfTheSmallestUnoccupiedChair.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1942" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.cpp" />
+              <option name="titleSlug" value="the-number-of-the-smallest-unoccupied-chair" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/2013_DetectSquares.cpp">
           <value>
             <LeetcodeEditor>
@@ -132,6 +198,61 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2013_DetectSquares.cpp" />
               <option name="titleSlug" value="detect-squares" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/2090_KRadiusSubarrayAverages.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/2090_KRadiusSubarrayAverages.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2090" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2090_KRadiusSubarrayAverages.cpp" />
+              <option name="titleSlug" value="k-radius-subarray-averages" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/2233_MaximumProductAfterKIncrements.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/2233_MaximumProductAfterKIncrements.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2233" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2233_MaximumProductAfterKIncrements.cpp" />
+              <option name="titleSlug" value="maximum-product-after-k-increments" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/2300_SuccessfulPairsOfSpellsAndPotions.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2300" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.cpp" />
+              <option name="titleSlug" value="successful-pairs-of-spells-and-potions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/2336_SmallestNumberInInfiniteSet.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2336" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.cpp" />
+              <option name="titleSlug" value="smallest-number-in-infinite-set" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/2406_DivideIntervalsIntoMinimumNumberOfGroups.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2406" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.cpp" />
+              <option name="titleSlug" value="divide-intervals-into-minimum-number-of-groups" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -146,6 +267,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/2558_TakeGiftsFromTheRichestPile.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2558" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.cpp" />
+              <option name="titleSlug" value="take-gifts-from-the-richest-pile" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/2836_MaximizeValueOfFunctionInABallPassingGame.cpp">
           <value>
             <LeetcodeEditor>
@@ -157,6 +289,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3296" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.cpp" />
+              <option name="titleSlug" value="minimum-number-of-seconds-to-make-mountain-height-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3298" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.cpp" />
+              <option name="titleSlug" value="count-substrings-that-can-be-rearranged-to-contain-a-string-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/3453_SeparateSquaresI.cpp">
           <value>
             <LeetcodeEditor>
@@ -165,6 +319,39 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/3453_SeparateSquaresI.cpp" />
               <option name="titleSlug" value="separate-squares-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/3478_ChooseKElementsWithMaximumSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3478" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.cpp" />
+              <option name="titleSlug" value="choose-k-elements-with-maximum-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/3494_FindTheMinimumAmountOfTimeToBrewPotions.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3494" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.cpp" />
+              <option name="titleSlug" value="find-the-minimum-amount-of-time-to-brew-potions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/3542_MinimumOperationsToConvertAllElementsToZero.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3542" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.cpp" />
+              <option name="titleSlug" value="minimum-operations-to-convert-all-elements-to-zero" />
             </LeetcodeEditor>
           </value>
         </entry>

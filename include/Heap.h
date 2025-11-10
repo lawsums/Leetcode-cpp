@@ -1,0 +1,153 @@
+//
+// Created by Hello on 2025/10/29.
+//
+
+#ifndef LEETCODE_HEAP_H
+#define LEETCODE_HEAP_H
+
+#include <vector>
+#include <stdexcept>
+#include <algorithm>
+
+class Heap {
+private:
+    std::vector<int> heap_; // 内部堆的存储容器
+
+    // 内部堆的上浮操作（用于插入元素后维护堆结构）
+    // i: 新插入元素的索引
+    void heapInsert(size_t i) {
+        while (i > 0) {
+            size_t parent = (i - 1) / 2; // 父节点索引
+            if (heap_[i] > heap_[parent]) { // 大顶堆：子节点 > 父节点则交换
+                std::swap(heap_[i], heap_[parent]);
+                i = parent; // 继续向上比较
+            } else {
+                break; // 满足堆性质，停止上浮
+            }
+        }
+    }
+
+    // 内部堆的下沉操作（用于弹出元素后维护堆结构）
+    // i: 起始下沉的索引；size: 当前堆的有效大小
+    void heapify(size_t i, size_t size) {
+        while (2 * i + 1 < size) { // 左孩子存在时才继续下沉
+            size_t left = 2 * i + 1;   // 左孩子索引
+            size_t right = left + 1;    // 右孩子索引
+            size_t larger = left;       // 先假设左孩子更大
+
+            // 若右孩子存在且更大，则更新larger为右孩子
+            if (right < size && heap_[right] > heap_[left]) {
+                larger = right;
+            }
+
+            // 若当前节点小于更大的孩子，则交换并继续下沉
+            if (heap_[i] < heap_[larger]) {
+                std::swap(heap_[i], heap_[larger]);
+                i = larger; // 继续向下比较
+            } else {
+                break; // 满足堆性质，停止下沉
+            }
+        }
+    }
+
+    // 外部数组的上浮操作（用于外部排序时构建堆）
+    static void heapInsertExternal(std::vector<int>& nums, size_t i) {
+        while (i > 0) {
+            size_t parent = (i - 1) / 2;
+            if (nums[i] > nums[parent]) {
+                std::swap(nums[i], nums[parent]);
+                i = parent;
+            } else {
+                break;
+            }
+        }
+    }
+
+    // 外部数组的下沉操作（用于外部排序时调整堆）
+    static void heapifyExternal(std::vector<int>& nums, size_t i, size_t size) {
+        while (2 * i + 1 < size) {
+            size_t left = 2 * i + 1;
+            size_t right = left + 1;
+            size_t larger = left;
+            if (right < size && nums[right] > nums[left]) {
+                larger = right;
+            }
+            if (nums[i] < nums[larger]) {
+                std::swap(nums[i], nums[larger]);
+                i = larger;
+            } else {
+                break;
+            }
+        }
+    }
+
+public:
+    // 构造函数：空堆
+    Heap() = default;
+
+    // 构造函数：用初始元素构建堆（高效堆化）
+    explicit Heap(const std::vector<int>& nums) : heap_(nums) {
+        if (heap_.empty()) return;
+        // 从最后一个非叶子节点开始堆化（时间复杂度O(n)）
+        for (int i = (heap_.size() - 2) / 2; i >= 0; --i) {
+            heapify(i, heap_.size());
+        }
+    }
+
+    // 插入元素到堆中
+    void push(int val) {
+        heap_.push_back(val);               // 先放到末尾
+        heapInsert(heap_.size() - 1);       // 对新元素执行上浮
+    }
+
+    // 弹出堆顶元素（返回弹出的值）
+    int pop() {
+        if (empty()) {
+            throw std::runtime_error("Heap is empty, cannot pop");
+        }
+        int topVal = heap_[0];              // 保存堆顶值
+        std::swap(heap_[0], heap_.back());  // 交换堆顶和最后一个元素
+        heap_.pop_back();                   // 移除原堆顶（现在在末尾）
+        if (!empty()) {
+            heapify(0, heap_.size());       // 对新堆顶执行下沉
+        }
+        return topVal;
+    }
+
+    // 获取堆顶元素（不弹出）
+    int top() const {
+        if (empty()) {
+            throw std::runtime_error("Heap is empty, no top element");
+        }
+        return heap_[0];
+    }
+
+    // 判断堆是否为空
+    bool empty() const {
+        return heap_.empty();
+    }
+
+    // 获取堆的大小
+    size_t size() const {
+        return heap_.size();
+    }
+
+    // 静态方法：对外部数组进行堆排序（升序）
+    static void sort(std::vector<int>& nums) {
+        if (nums.empty()) return;
+
+        // 1. 构建大顶堆
+        size_t heapSize = 0;
+        for (size_t i = 0; i < nums.size(); ++i) {
+            heapInsertExternal(nums, heapSize++); // 逐个插入并上浮
+        }
+
+        // 2. 依次弹出堆顶（最大元素），放到数组末尾，调整堆
+        while (heapSize > 0) {
+            std::swap(nums[0], nums[--heapSize]); // 堆顶（最大）交换到当前末尾
+            heapifyExternal(nums, 0, heapSize);   // 对新堆顶下沉调整
+        }
+    }
+};
+
+#endif//LEETCODE_HEAP_H

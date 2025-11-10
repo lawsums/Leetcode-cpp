@@ -516,6 +516,25 @@ rule CXX_EXECUTABLE_LINKER__0437_PathSumIii_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__0460_LfuCache_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__0460_LfuCache_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__0502_Ipo_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -991,6 +1010,25 @@ rule CXX_EXECUTABLE_LINKER__1044_LongestDuplicateSubstring_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__1046_LastStoneWeight_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__1046_LastStoneWeight_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__1061_LexicographicallySmallestEquivalentString_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1116,6 +1154,44 @@ rule CXX_COMPILER__1353_MaximumNumberOfEventsThatCanBeAttended_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__1353_MaximumNumberOfEventsThatCanBeAttended_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__1358_NumberOfSubstringsContainingAllThreeCharacters_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__1358_NumberOfSubstringsContainingAllThreeCharacters_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__1400_ConstructKPalindromeStrings_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__1400_ConstructKPalindromeStrings_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1295,6 +1371,25 @@ rule CXX_EXECUTABLE_LINKER__1792_MaximumAveragePassRatio_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__1834_SingleThreadedCpu_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__1834_SingleThreadedCpu_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__1912_DesignMovieRentalSystem_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1306,6 +1401,25 @@ rule CXX_COMPILER__1912_DesignMovieRentalSystem_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__1912_DesignMovieRentalSystem_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__1942_TheNumberOfTheSmallestUnoccupiedChair_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__1942_TheNumberOfTheSmallestUnoccupiedChair_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1371,6 +1485,25 @@ rule CXX_EXECUTABLE_LINKER__2013_DetectSquares_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__2090_KRadiusSubarrayAverages_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2090_KRadiusSubarrayAverages_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__2208_MinimumOperationsToHalveArraySum_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1390,6 +1523,44 @@ rule CXX_EXECUTABLE_LINKER__2208_MinimumOperationsToHalveArraySum_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__2233_MaximumProductAfterKIncrements_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2233_MaximumProductAfterKIncrements_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2300_SuccessfulPairsOfSpellsAndPotions_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2300_SuccessfulPairsOfSpellsAndPotions_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__2327_NumberOfPeopleAwareOfASecret_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1401,6 +1572,25 @@ rule CXX_COMPILER__2327_NumberOfPeopleAwareOfASecret_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__2327_NumberOfPeopleAwareOfASecret_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2336_SmallestNumberInInfiniteSet_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2336_SmallestNumberInInfiniteSet_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1439,6 +1629,25 @@ rule CXX_COMPILER__234_PalindromeLinkedList_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__234_PalindromeLinkedList_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2406_DivideIntervalsIntoMinimumNumberOfGroups_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2406_DivideIntervalsIntoMinimumNumberOfGroups_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1496,6 +1705,25 @@ rule CXX_COMPILER__2555_MaximizeWinFromTwoSegments_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__2555_MaximizeWinFromTwoSegments_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2558_TakeGiftsFromTheRichestPile_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2558_TakeGiftsFromTheRichestPile_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1656,6 +1884,44 @@ rule CXX_EXECUTABLE_LINKER__30_SubstringWithConcatenationOfAllWords_mine_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__3296_MinimumNumberOfSecondsToMakeMountainHeightZero_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__3296_MinimumNumberOfSecondsToMakeMountainHeightZero_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__3298_CountSubstringsThatCanBeRearrangedToContainAStringIi_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__3298_CountSubstringsThatCanBeRearrangedToContainAStringIi_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__3302_FindTheLexicographicallySmallestValidSequence_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1770,6 +2036,25 @@ rule CXX_EXECUTABLE_LINKER__3470_PermutationsIv_Debug
 #############################################
 # Rule for compiling CXX files.
 
+rule CXX_COMPILER__3478_ChooseKElementsWithMaximumSum_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__3478_ChooseKElementsWithMaximumSum_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
 rule CXX_COMPILER__3484_DesignSpreadsheet_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1781,6 +2066,25 @@ rule CXX_COMPILER__3484_DesignSpreadsheet_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__3484_DesignSpreadsheet_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__3494_FindTheMinimumAmountOfTimeToBrewPotions_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__3494_FindTheMinimumAmountOfTimeToBrewPotions_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1857,6 +2161,25 @@ rule CXX_COMPILER__3541_FindMostFrequentVowelAndConsonant_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__3541_FindMostFrequentVowelAndConsonant_Debug
+  command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__3542_MinimumOperationsToConvertAllElementsToZero_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__3542_MinimumOperationsToConvertAllElementsToZero_Debug
   command = cmd.exe /C "$PRE_LINK && "H:\MyPath\CLion 2023.3.6\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT

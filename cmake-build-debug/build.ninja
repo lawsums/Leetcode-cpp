@@ -979,6 +979,40 @@ build leetcode/editor/cn/0437_PathSumIii.exe: CXX_EXECUTABLE_LINKER__0437_PathSu
   TARGET_PDB = 0437_PathSumIii.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 0460_LfuCache
+
+
+#############################################
+# Order-only phony target for 0460_LfuCache
+
+build cmake_object_order_depends_target_0460_LfuCache: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/0460_LfuCache.dir/0460_LfuCache.cpp.obj: CXX_COMPILER__0460_LfuCache_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/0460_LfuCache.cpp || cmake_object_order_depends_target_0460_LfuCache
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\0460_LfuCache.dir\0460_LfuCache.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\0460_LfuCache.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\0460_LfuCache.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0460_LfuCache
+
+
+#############################################
+# Link the executable leetcode\editor\cn\0460_LfuCache.exe
+
+build leetcode/editor/cn/0460_LfuCache.exe: CXX_EXECUTABLE_LINKER__0460_LfuCache_Debug leetcode/editor/cn/CMakeFiles/0460_LfuCache.dir/0460_LfuCache.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\0460_LfuCache.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\0460_LfuCache.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib0460_LfuCache.dll.a
+  TARGET_PDB = 0460_LfuCache.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 0502_Ipo
 
 
@@ -1829,6 +1863,40 @@ build leetcode/editor/cn/1044_LongestDuplicateSubstring.exe: CXX_EXECUTABLE_LINK
   TARGET_PDB = 1044_LongestDuplicateSubstring.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 1046_LastStoneWeight
+
+
+#############################################
+# Order-only phony target for 1046_LastStoneWeight
+
+build cmake_object_order_depends_target_1046_LastStoneWeight: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/1046_LastStoneWeight.dir/1046_LastStoneWeight.cpp.obj: CXX_COMPILER__1046_LastStoneWeight_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/1046_LastStoneWeight.cpp || cmake_object_order_depends_target_1046_LastStoneWeight
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\1046_LastStoneWeight.dir\1046_LastStoneWeight.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1046_LastStoneWeight.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\1046_LastStoneWeight.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1046_LastStoneWeight
+
+
+#############################################
+# Link the executable leetcode\editor\cn\1046_LastStoneWeight.exe
+
+build leetcode/editor/cn/1046_LastStoneWeight.exe: CXX_EXECUTABLE_LINKER__1046_LastStoneWeight_Debug leetcode/editor/cn/CMakeFiles/1046_LastStoneWeight.dir/1046_LastStoneWeight.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1046_LastStoneWeight.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\1046_LastStoneWeight.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib1046_LastStoneWeight.dll.a
+  TARGET_PDB = 1046_LastStoneWeight.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 1061_LexicographicallySmallestEquivalentString
 
 
@@ -2065,6 +2133,74 @@ build leetcode/editor/cn/1353_MaximumNumberOfEventsThatCanBeAttended.exe: CXX_EX
   TARGET_FILE = leetcode\editor\cn\1353_MaximumNumberOfEventsThatCanBeAttended.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib1353_MaximumNumberOfEventsThatCanBeAttended.dll.a
   TARGET_PDB = 1353_MaximumNumberOfEventsThatCanBeAttended.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1358_NumberOfSubstringsContainingAllThreeCharacters
+
+
+#############################################
+# Order-only phony target for 1358_NumberOfSubstringsContainingAllThreeCharacters
+
+build cmake_object_order_depends_target_1358_NumberOfSubstringsContainingAllThreeCharacters: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/1358_NumberOfSubstringsContainingAllThreeCharacters.dir/1358_NumberOfSubstringsContainingAllThreeCharacters.cpp.obj: CXX_COMPILER__1358_NumberOfSubstringsContainingAllThreeCharacters_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.cpp || cmake_object_order_depends_target_1358_NumberOfSubstringsContainingAllThreeCharacters
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\1358_NumberOfSubstringsContainingAllThreeCharacters.dir\1358_NumberOfSubstringsContainingAllThreeCharacters.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1358_NumberOfSubstringsContainingAllThreeCharacters.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\1358_NumberOfSubstringsContainingAllThreeCharacters.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1358_NumberOfSubstringsContainingAllThreeCharacters
+
+
+#############################################
+# Link the executable leetcode\editor\cn\1358_NumberOfSubstringsContainingAllThreeCharacters.exe
+
+build leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.exe: CXX_EXECUTABLE_LINKER__1358_NumberOfSubstringsContainingAllThreeCharacters_Debug leetcode/editor/cn/CMakeFiles/1358_NumberOfSubstringsContainingAllThreeCharacters.dir/1358_NumberOfSubstringsContainingAllThreeCharacters.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1358_NumberOfSubstringsContainingAllThreeCharacters.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\1358_NumberOfSubstringsContainingAllThreeCharacters.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib1358_NumberOfSubstringsContainingAllThreeCharacters.dll.a
+  TARGET_PDB = 1358_NumberOfSubstringsContainingAllThreeCharacters.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1400_ConstructKPalindromeStrings
+
+
+#############################################
+# Order-only phony target for 1400_ConstructKPalindromeStrings
+
+build cmake_object_order_depends_target_1400_ConstructKPalindromeStrings: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/1400_ConstructKPalindromeStrings.dir/1400_ConstructKPalindromeStrings.cpp.obj: CXX_COMPILER__1400_ConstructKPalindromeStrings_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/1400_ConstructKPalindromeStrings.cpp || cmake_object_order_depends_target_1400_ConstructKPalindromeStrings
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\1400_ConstructKPalindromeStrings.dir\1400_ConstructKPalindromeStrings.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1400_ConstructKPalindromeStrings.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\1400_ConstructKPalindromeStrings.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1400_ConstructKPalindromeStrings
+
+
+#############################################
+# Link the executable leetcode\editor\cn\1400_ConstructKPalindromeStrings.exe
+
+build leetcode/editor/cn/1400_ConstructKPalindromeStrings.exe: CXX_EXECUTABLE_LINKER__1400_ConstructKPalindromeStrings_Debug leetcode/editor/cn/CMakeFiles/1400_ConstructKPalindromeStrings.dir/1400_ConstructKPalindromeStrings.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1400_ConstructKPalindromeStrings.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\1400_ConstructKPalindromeStrings.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib1400_ConstructKPalindromeStrings.dll.a
+  TARGET_PDB = 1400_ConstructKPalindromeStrings.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 141_LinkedListCycle
@@ -2373,6 +2509,40 @@ build leetcode/editor/cn/1792_MaximumAveragePassRatio.exe: CXX_EXECUTABLE_LINKER
   TARGET_PDB = 1792_MaximumAveragePassRatio.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 1834_SingleThreadedCpu
+
+
+#############################################
+# Order-only phony target for 1834_SingleThreadedCpu
+
+build cmake_object_order_depends_target_1834_SingleThreadedCpu: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/1834_SingleThreadedCpu.dir/1834_SingleThreadedCpu.cpp.obj: CXX_COMPILER__1834_SingleThreadedCpu_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/1834_SingleThreadedCpu.cpp || cmake_object_order_depends_target_1834_SingleThreadedCpu
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\1834_SingleThreadedCpu.dir\1834_SingleThreadedCpu.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1834_SingleThreadedCpu.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\1834_SingleThreadedCpu.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1834_SingleThreadedCpu
+
+
+#############################################
+# Link the executable leetcode\editor\cn\1834_SingleThreadedCpu.exe
+
+build leetcode/editor/cn/1834_SingleThreadedCpu.exe: CXX_EXECUTABLE_LINKER__1834_SingleThreadedCpu_Debug leetcode/editor/cn/CMakeFiles/1834_SingleThreadedCpu.dir/1834_SingleThreadedCpu.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1834_SingleThreadedCpu.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\1834_SingleThreadedCpu.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib1834_SingleThreadedCpu.dll.a
+  TARGET_PDB = 1834_SingleThreadedCpu.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 1912_DesignMovieRentalSystem
 
 
@@ -2405,6 +2575,40 @@ build leetcode/editor/cn/1912_DesignMovieRentalSystem.exe: CXX_EXECUTABLE_LINKER
   TARGET_FILE = leetcode\editor\cn\1912_DesignMovieRentalSystem.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib1912_DesignMovieRentalSystem.dll.a
   TARGET_PDB = 1912_DesignMovieRentalSystem.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1942_TheNumberOfTheSmallestUnoccupiedChair
+
+
+#############################################
+# Order-only phony target for 1942_TheNumberOfTheSmallestUnoccupiedChair
+
+build cmake_object_order_depends_target_1942_TheNumberOfTheSmallestUnoccupiedChair: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/1942_TheNumberOfTheSmallestUnoccupiedChair.dir/1942_TheNumberOfTheSmallestUnoccupiedChair.cpp.obj: CXX_COMPILER__1942_TheNumberOfTheSmallestUnoccupiedChair_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.cpp || cmake_object_order_depends_target_1942_TheNumberOfTheSmallestUnoccupiedChair
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\1942_TheNumberOfTheSmallestUnoccupiedChair.dir\1942_TheNumberOfTheSmallestUnoccupiedChair.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1942_TheNumberOfTheSmallestUnoccupiedChair.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\1942_TheNumberOfTheSmallestUnoccupiedChair.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1942_TheNumberOfTheSmallestUnoccupiedChair
+
+
+#############################################
+# Link the executable leetcode\editor\cn\1942_TheNumberOfTheSmallestUnoccupiedChair.exe
+
+build leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.exe: CXX_EXECUTABLE_LINKER__1942_TheNumberOfTheSmallestUnoccupiedChair_Debug leetcode/editor/cn/CMakeFiles/1942_TheNumberOfTheSmallestUnoccupiedChair.dir/1942_TheNumberOfTheSmallestUnoccupiedChair.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\1942_TheNumberOfTheSmallestUnoccupiedChair.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\1942_TheNumberOfTheSmallestUnoccupiedChair.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib1942_TheNumberOfTheSmallestUnoccupiedChair.dll.a
+  TARGET_PDB = 1942_TheNumberOfTheSmallestUnoccupiedChair.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 19_RemoveNthNodeFromEndOfList
@@ -2509,6 +2713,40 @@ build leetcode/editor/cn/2013_DetectSquares.exe: CXX_EXECUTABLE_LINKER__2013_Det
   TARGET_PDB = 2013_DetectSquares.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 2090_KRadiusSubarrayAverages
+
+
+#############################################
+# Order-only phony target for 2090_KRadiusSubarrayAverages
+
+build cmake_object_order_depends_target_2090_KRadiusSubarrayAverages: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/2090_KRadiusSubarrayAverages.dir/2090_KRadiusSubarrayAverages.cpp.obj: CXX_COMPILER__2090_KRadiusSubarrayAverages_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/2090_KRadiusSubarrayAverages.cpp || cmake_object_order_depends_target_2090_KRadiusSubarrayAverages
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\2090_KRadiusSubarrayAverages.dir\2090_KRadiusSubarrayAverages.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2090_KRadiusSubarrayAverages.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\2090_KRadiusSubarrayAverages.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2090_KRadiusSubarrayAverages
+
+
+#############################################
+# Link the executable leetcode\editor\cn\2090_KRadiusSubarrayAverages.exe
+
+build leetcode/editor/cn/2090_KRadiusSubarrayAverages.exe: CXX_EXECUTABLE_LINKER__2090_KRadiusSubarrayAverages_Debug leetcode/editor/cn/CMakeFiles/2090_KRadiusSubarrayAverages.dir/2090_KRadiusSubarrayAverages.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2090_KRadiusSubarrayAverages.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\2090_KRadiusSubarrayAverages.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib2090_KRadiusSubarrayAverages.dll.a
+  TARGET_PDB = 2090_KRadiusSubarrayAverages.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 2208_MinimumOperationsToHalveArraySum
 
 
@@ -2543,6 +2781,74 @@ build leetcode/editor/cn/2208_MinimumOperationsToHalveArraySum.exe: CXX_EXECUTAB
   TARGET_PDB = 2208_MinimumOperationsToHalveArraySum.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 2233_MaximumProductAfterKIncrements
+
+
+#############################################
+# Order-only phony target for 2233_MaximumProductAfterKIncrements
+
+build cmake_object_order_depends_target_2233_MaximumProductAfterKIncrements: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/2233_MaximumProductAfterKIncrements.dir/2233_MaximumProductAfterKIncrements.cpp.obj: CXX_COMPILER__2233_MaximumProductAfterKIncrements_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/2233_MaximumProductAfterKIncrements.cpp || cmake_object_order_depends_target_2233_MaximumProductAfterKIncrements
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\2233_MaximumProductAfterKIncrements.dir\2233_MaximumProductAfterKIncrements.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2233_MaximumProductAfterKIncrements.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\2233_MaximumProductAfterKIncrements.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2233_MaximumProductAfterKIncrements
+
+
+#############################################
+# Link the executable leetcode\editor\cn\2233_MaximumProductAfterKIncrements.exe
+
+build leetcode/editor/cn/2233_MaximumProductAfterKIncrements.exe: CXX_EXECUTABLE_LINKER__2233_MaximumProductAfterKIncrements_Debug leetcode/editor/cn/CMakeFiles/2233_MaximumProductAfterKIncrements.dir/2233_MaximumProductAfterKIncrements.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2233_MaximumProductAfterKIncrements.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\2233_MaximumProductAfterKIncrements.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib2233_MaximumProductAfterKIncrements.dll.a
+  TARGET_PDB = 2233_MaximumProductAfterKIncrements.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2300_SuccessfulPairsOfSpellsAndPotions
+
+
+#############################################
+# Order-only phony target for 2300_SuccessfulPairsOfSpellsAndPotions
+
+build cmake_object_order_depends_target_2300_SuccessfulPairsOfSpellsAndPotions: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/2300_SuccessfulPairsOfSpellsAndPotions.dir/2300_SuccessfulPairsOfSpellsAndPotions.cpp.obj: CXX_COMPILER__2300_SuccessfulPairsOfSpellsAndPotions_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.cpp || cmake_object_order_depends_target_2300_SuccessfulPairsOfSpellsAndPotions
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\2300_SuccessfulPairsOfSpellsAndPotions.dir\2300_SuccessfulPairsOfSpellsAndPotions.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2300_SuccessfulPairsOfSpellsAndPotions.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\2300_SuccessfulPairsOfSpellsAndPotions.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2300_SuccessfulPairsOfSpellsAndPotions
+
+
+#############################################
+# Link the executable leetcode\editor\cn\2300_SuccessfulPairsOfSpellsAndPotions.exe
+
+build leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.exe: CXX_EXECUTABLE_LINKER__2300_SuccessfulPairsOfSpellsAndPotions_Debug leetcode/editor/cn/CMakeFiles/2300_SuccessfulPairsOfSpellsAndPotions.dir/2300_SuccessfulPairsOfSpellsAndPotions.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2300_SuccessfulPairsOfSpellsAndPotions.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\2300_SuccessfulPairsOfSpellsAndPotions.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib2300_SuccessfulPairsOfSpellsAndPotions.dll.a
+  TARGET_PDB = 2300_SuccessfulPairsOfSpellsAndPotions.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 2327_NumberOfPeopleAwareOfASecret
 
 
@@ -2575,6 +2881,40 @@ build leetcode/editor/cn/2327_NumberOfPeopleAwareOfASecret.exe: CXX_EXECUTABLE_L
   TARGET_FILE = leetcode\editor\cn\2327_NumberOfPeopleAwareOfASecret.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib2327_NumberOfPeopleAwareOfASecret.dll.a
   TARGET_PDB = 2327_NumberOfPeopleAwareOfASecret.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2336_SmallestNumberInInfiniteSet
+
+
+#############################################
+# Order-only phony target for 2336_SmallestNumberInInfiniteSet
+
+build cmake_object_order_depends_target_2336_SmallestNumberInInfiniteSet: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/2336_SmallestNumberInInfiniteSet.dir/2336_SmallestNumberInInfiniteSet.cpp.obj: CXX_COMPILER__2336_SmallestNumberInInfiniteSet_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.cpp || cmake_object_order_depends_target_2336_SmallestNumberInInfiniteSet
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\2336_SmallestNumberInInfiniteSet.dir\2336_SmallestNumberInInfiniteSet.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2336_SmallestNumberInInfiniteSet.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\2336_SmallestNumberInInfiniteSet.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2336_SmallestNumberInInfiniteSet
+
+
+#############################################
+# Link the executable leetcode\editor\cn\2336_SmallestNumberInInfiniteSet.exe
+
+build leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.exe: CXX_EXECUTABLE_LINKER__2336_SmallestNumberInInfiniteSet_Debug leetcode/editor/cn/CMakeFiles/2336_SmallestNumberInInfiniteSet.dir/2336_SmallestNumberInInfiniteSet.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2336_SmallestNumberInInfiniteSet.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\2336_SmallestNumberInInfiniteSet.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib2336_SmallestNumberInInfiniteSet.dll.a
+  TARGET_PDB = 2336_SmallestNumberInInfiniteSet.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 2349_DesignANumberContainerSystem
@@ -2643,6 +2983,40 @@ build leetcode/editor/cn/234_PalindromeLinkedList.exe: CXX_EXECUTABLE_LINKER__23
   TARGET_FILE = leetcode\editor\cn\234_PalindromeLinkedList.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib234_PalindromeLinkedList.dll.a
   TARGET_PDB = 234_PalindromeLinkedList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2406_DivideIntervalsIntoMinimumNumberOfGroups
+
+
+#############################################
+# Order-only phony target for 2406_DivideIntervalsIntoMinimumNumberOfGroups
+
+build cmake_object_order_depends_target_2406_DivideIntervalsIntoMinimumNumberOfGroups: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/2406_DivideIntervalsIntoMinimumNumberOfGroups.dir/2406_DivideIntervalsIntoMinimumNumberOfGroups.cpp.obj: CXX_COMPILER__2406_DivideIntervalsIntoMinimumNumberOfGroups_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.cpp || cmake_object_order_depends_target_2406_DivideIntervalsIntoMinimumNumberOfGroups
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\2406_DivideIntervalsIntoMinimumNumberOfGroups.dir\2406_DivideIntervalsIntoMinimumNumberOfGroups.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2406_DivideIntervalsIntoMinimumNumberOfGroups.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\2406_DivideIntervalsIntoMinimumNumberOfGroups.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2406_DivideIntervalsIntoMinimumNumberOfGroups
+
+
+#############################################
+# Link the executable leetcode\editor\cn\2406_DivideIntervalsIntoMinimumNumberOfGroups.exe
+
+build leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.exe: CXX_EXECUTABLE_LINKER__2406_DivideIntervalsIntoMinimumNumberOfGroups_Debug leetcode/editor/cn/CMakeFiles/2406_DivideIntervalsIntoMinimumNumberOfGroups.dir/2406_DivideIntervalsIntoMinimumNumberOfGroups.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2406_DivideIntervalsIntoMinimumNumberOfGroups.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\2406_DivideIntervalsIntoMinimumNumberOfGroups.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib2406_DivideIntervalsIntoMinimumNumberOfGroups.dll.a
+  TARGET_PDB = 2406_DivideIntervalsIntoMinimumNumberOfGroups.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 242_ValidAnagram
@@ -2745,6 +3119,40 @@ build leetcode/editor/cn/2555_MaximizeWinFromTwoSegments.exe: CXX_EXECUTABLE_LIN
   TARGET_FILE = leetcode\editor\cn\2555_MaximizeWinFromTwoSegments.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib2555_MaximizeWinFromTwoSegments.dll.a
   TARGET_PDB = 2555_MaximizeWinFromTwoSegments.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2558_TakeGiftsFromTheRichestPile
+
+
+#############################################
+# Order-only phony target for 2558_TakeGiftsFromTheRichestPile
+
+build cmake_object_order_depends_target_2558_TakeGiftsFromTheRichestPile: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/2558_TakeGiftsFromTheRichestPile.dir/2558_TakeGiftsFromTheRichestPile.cpp.obj: CXX_COMPILER__2558_TakeGiftsFromTheRichestPile_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.cpp || cmake_object_order_depends_target_2558_TakeGiftsFromTheRichestPile
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\2558_TakeGiftsFromTheRichestPile.dir\2558_TakeGiftsFromTheRichestPile.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2558_TakeGiftsFromTheRichestPile.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\2558_TakeGiftsFromTheRichestPile.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2558_TakeGiftsFromTheRichestPile
+
+
+#############################################
+# Link the executable leetcode\editor\cn\2558_TakeGiftsFromTheRichestPile.exe
+
+build leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.exe: CXX_EXECUTABLE_LINKER__2558_TakeGiftsFromTheRichestPile_Debug leetcode/editor/cn/CMakeFiles/2558_TakeGiftsFromTheRichestPile.dir/2558_TakeGiftsFromTheRichestPile.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\2558_TakeGiftsFromTheRichestPile.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\2558_TakeGiftsFromTheRichestPile.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib2558_TakeGiftsFromTheRichestPile.dll.a
+  TARGET_PDB = 2558_TakeGiftsFromTheRichestPile.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 2751_RobotCollisions
@@ -3019,6 +3427,74 @@ build leetcode/editor/cn/30_SubstringWithConcatenationOfAllWords_mine.exe: CXX_E
   TARGET_PDB = 30_SubstringWithConcatenationOfAllWords_mine.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 3296_MinimumNumberOfSecondsToMakeMountainHeightZero
+
+
+#############################################
+# Order-only phony target for 3296_MinimumNumberOfSecondsToMakeMountainHeightZero
+
+build cmake_object_order_depends_target_3296_MinimumNumberOfSecondsToMakeMountainHeightZero: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dir/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.cpp.obj: CXX_COMPILER__3296_MinimumNumberOfSecondsToMakeMountainHeightZero_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.cpp || cmake_object_order_depends_target_3296_MinimumNumberOfSecondsToMakeMountainHeightZero
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dir\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3296_MinimumNumberOfSecondsToMakeMountainHeightZero
+
+
+#############################################
+# Link the executable leetcode\editor\cn\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe
+
+build leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe: CXX_EXECUTABLE_LINKER__3296_MinimumNumberOfSecondsToMakeMountainHeightZero_Debug leetcode/editor/cn/CMakeFiles/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dir/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib3296_MinimumNumberOfSecondsToMakeMountainHeightZero.dll.a
+  TARGET_PDB = 3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3298_CountSubstringsThatCanBeRearrangedToContainAStringIi
+
+
+#############################################
+# Order-only phony target for 3298_CountSubstringsThatCanBeRearrangedToContainAStringIi
+
+build cmake_object_order_depends_target_3298_CountSubstringsThatCanBeRearrangedToContainAStringIi: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dir/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.cpp.obj: CXX_COMPILER__3298_CountSubstringsThatCanBeRearrangedToContainAStringIi_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.cpp || cmake_object_order_depends_target_3298_CountSubstringsThatCanBeRearrangedToContainAStringIi
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dir\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3298_CountSubstringsThatCanBeRearrangedToContainAStringIi
+
+
+#############################################
+# Link the executable leetcode\editor\cn\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe
+
+build leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe: CXX_EXECUTABLE_LINKER__3298_CountSubstringsThatCanBeRearrangedToContainAStringIi_Debug leetcode/editor/cn/CMakeFiles/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dir/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.dll.a
+  TARGET_PDB = 3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 3302_FindTheLexicographicallySmallestValidSequence
 
 
@@ -3223,6 +3699,40 @@ build leetcode/editor/cn/3470_PermutationsIv.exe: CXX_EXECUTABLE_LINKER__3470_Pe
   TARGET_PDB = 3470_PermutationsIv.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 3478_ChooseKElementsWithMaximumSum
+
+
+#############################################
+# Order-only phony target for 3478_ChooseKElementsWithMaximumSum
+
+build cmake_object_order_depends_target_3478_ChooseKElementsWithMaximumSum: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/3478_ChooseKElementsWithMaximumSum.dir/3478_ChooseKElementsWithMaximumSum.cpp.obj: CXX_COMPILER__3478_ChooseKElementsWithMaximumSum_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.cpp || cmake_object_order_depends_target_3478_ChooseKElementsWithMaximumSum
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\3478_ChooseKElementsWithMaximumSum.dir\3478_ChooseKElementsWithMaximumSum.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3478_ChooseKElementsWithMaximumSum.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\3478_ChooseKElementsWithMaximumSum.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3478_ChooseKElementsWithMaximumSum
+
+
+#############################################
+# Link the executable leetcode\editor\cn\3478_ChooseKElementsWithMaximumSum.exe
+
+build leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.exe: CXX_EXECUTABLE_LINKER__3478_ChooseKElementsWithMaximumSum_Debug leetcode/editor/cn/CMakeFiles/3478_ChooseKElementsWithMaximumSum.dir/3478_ChooseKElementsWithMaximumSum.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3478_ChooseKElementsWithMaximumSum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\3478_ChooseKElementsWithMaximumSum.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib3478_ChooseKElementsWithMaximumSum.dll.a
+  TARGET_PDB = 3478_ChooseKElementsWithMaximumSum.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 3484_DesignSpreadsheet
 
 
@@ -3255,6 +3765,40 @@ build leetcode/editor/cn/3484_DesignSpreadsheet.exe: CXX_EXECUTABLE_LINKER__3484
   TARGET_FILE = leetcode\editor\cn\3484_DesignSpreadsheet.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib3484_DesignSpreadsheet.dll.a
   TARGET_PDB = 3484_DesignSpreadsheet.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3494_FindTheMinimumAmountOfTimeToBrewPotions
+
+
+#############################################
+# Order-only phony target for 3494_FindTheMinimumAmountOfTimeToBrewPotions
+
+build cmake_object_order_depends_target_3494_FindTheMinimumAmountOfTimeToBrewPotions: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/3494_FindTheMinimumAmountOfTimeToBrewPotions.dir/3494_FindTheMinimumAmountOfTimeToBrewPotions.cpp.obj: CXX_COMPILER__3494_FindTheMinimumAmountOfTimeToBrewPotions_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.cpp || cmake_object_order_depends_target_3494_FindTheMinimumAmountOfTimeToBrewPotions
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\3494_FindTheMinimumAmountOfTimeToBrewPotions.dir\3494_FindTheMinimumAmountOfTimeToBrewPotions.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3494_FindTheMinimumAmountOfTimeToBrewPotions.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\3494_FindTheMinimumAmountOfTimeToBrewPotions.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3494_FindTheMinimumAmountOfTimeToBrewPotions
+
+
+#############################################
+# Link the executable leetcode\editor\cn\3494_FindTheMinimumAmountOfTimeToBrewPotions.exe
+
+build leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.exe: CXX_EXECUTABLE_LINKER__3494_FindTheMinimumAmountOfTimeToBrewPotions_Debug leetcode/editor/cn/CMakeFiles/3494_FindTheMinimumAmountOfTimeToBrewPotions.dir/3494_FindTheMinimumAmountOfTimeToBrewPotions.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3494_FindTheMinimumAmountOfTimeToBrewPotions.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\3494_FindTheMinimumAmountOfTimeToBrewPotions.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib3494_FindTheMinimumAmountOfTimeToBrewPotions.dll.a
+  TARGET_PDB = 3494_FindTheMinimumAmountOfTimeToBrewPotions.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 3495_MinimumOperationsToMakeArrayElementsZero
@@ -3391,6 +3935,40 @@ build leetcode/editor/cn/3541_FindMostFrequentVowelAndConsonant.exe: CXX_EXECUTA
   TARGET_FILE = leetcode\editor\cn\3541_FindMostFrequentVowelAndConsonant.exe
   TARGET_IMPLIB = leetcode\editor\cn\lib3541_FindMostFrequentVowelAndConsonant.dll.a
   TARGET_PDB = 3541_FindMostFrequentVowelAndConsonant.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3542_MinimumOperationsToConvertAllElementsToZero
+
+
+#############################################
+# Order-only phony target for 3542_MinimumOperationsToConvertAllElementsToZero
+
+build cmake_object_order_depends_target_3542_MinimumOperationsToConvertAllElementsToZero: phony || cmake_object_order_depends_target_leetcode_lib
+
+build leetcode/editor/cn/CMakeFiles/3542_MinimumOperationsToConvertAllElementsToZero.dir/3542_MinimumOperationsToConvertAllElementsToZero.cpp.obj: CXX_COMPILER__3542_MinimumOperationsToConvertAllElementsToZero_unscanned_Debug H$:/Code/Cpp/Leetcode/leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.cpp || cmake_object_order_depends_target_3542_MinimumOperationsToConvertAllElementsToZero
+  DEP_FILE = leetcode\editor\cn\CMakeFiles\3542_MinimumOperationsToConvertAllElementsToZero.dir\3542_MinimumOperationsToConvertAllElementsToZero.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -IH:/Code/Cpp/Leetcode/include
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3542_MinimumOperationsToConvertAllElementsToZero.dir
+  OBJECT_FILE_DIR = leetcode\editor\cn\CMakeFiles\3542_MinimumOperationsToConvertAllElementsToZero.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3542_MinimumOperationsToConvertAllElementsToZero
+
+
+#############################################
+# Link the executable leetcode\editor\cn\3542_MinimumOperationsToConvertAllElementsToZero.exe
+
+build leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.exe: CXX_EXECUTABLE_LINKER__3542_MinimumOperationsToConvertAllElementsToZero_Debug leetcode/editor/cn/CMakeFiles/3542_MinimumOperationsToConvertAllElementsToZero.dir/3542_MinimumOperationsToConvertAllElementsToZero.cpp.obj | libleetcode_lib.a || libleetcode_lib.a
+  FLAGS = -g
+  LINK_LIBRARIES = libleetcode_lib.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = leetcode\editor\cn\CMakeFiles\3542_MinimumOperationsToConvertAllElementsToZero.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode\editor\cn\3542_MinimumOperationsToConvertAllElementsToZero.exe
+  TARGET_IMPLIB = leetcode\editor\cn\lib3542_MinimumOperationsToConvertAllElementsToZero.dll.a
+  TARGET_PDB = 3542_MinimumOperationsToConvertAllElementsToZero.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 37_SudokuSolver
@@ -5106,6 +5684,10 @@ build 0437_PathSumIii: phony leetcode/editor/cn/0437_PathSumIii.exe
 
 build 0437_PathSumIii.exe: phony leetcode/editor/cn/0437_PathSumIii.exe
 
+build 0460_LfuCache: phony leetcode/editor/cn/0460_LfuCache.exe
+
+build 0460_LfuCache.exe: phony leetcode/editor/cn/0460_LfuCache.exe
+
 build 0502_Ipo: phony leetcode/editor/cn/0502_Ipo.exe
 
 build 0502_Ipo.exe: phony leetcode/editor/cn/0502_Ipo.exe
@@ -5206,6 +5788,10 @@ build 1044_LongestDuplicateSubstring: phony leetcode/editor/cn/1044_LongestDupli
 
 build 1044_LongestDuplicateSubstring.exe: phony leetcode/editor/cn/1044_LongestDuplicateSubstring.exe
 
+build 1046_LastStoneWeight: phony leetcode/editor/cn/1046_LastStoneWeight.exe
+
+build 1046_LastStoneWeight.exe: phony leetcode/editor/cn/1046_LastStoneWeight.exe
+
 build 1061_LexicographicallySmallestEquivalentString: phony leetcode/editor/cn/1061_LexicographicallySmallestEquivalentString.exe
 
 build 1061_LexicographicallySmallestEquivalentString.exe: phony leetcode/editor/cn/1061_LexicographicallySmallestEquivalentString.exe
@@ -5233,6 +5819,14 @@ build 1338_ReduceArraySizeToTheHalf.exe: phony leetcode/editor/cn/1338_ReduceArr
 build 1353_MaximumNumberOfEventsThatCanBeAttended: phony leetcode/editor/cn/1353_MaximumNumberOfEventsThatCanBeAttended.exe
 
 build 1353_MaximumNumberOfEventsThatCanBeAttended.exe: phony leetcode/editor/cn/1353_MaximumNumberOfEventsThatCanBeAttended.exe
+
+build 1358_NumberOfSubstringsContainingAllThreeCharacters: phony leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.exe
+
+build 1358_NumberOfSubstringsContainingAllThreeCharacters.exe: phony leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.exe
+
+build 1400_ConstructKPalindromeStrings: phony leetcode/editor/cn/1400_ConstructKPalindromeStrings.exe
+
+build 1400_ConstructKPalindromeStrings.exe: phony leetcode/editor/cn/1400_ConstructKPalindromeStrings.exe
 
 build 141_LinkedListCycle: phony leetcode/editor/cn/141_LinkedListCycle.exe
 
@@ -5270,9 +5864,17 @@ build 1792_MaximumAveragePassRatio: phony leetcode/editor/cn/1792_MaximumAverage
 
 build 1792_MaximumAveragePassRatio.exe: phony leetcode/editor/cn/1792_MaximumAveragePassRatio.exe
 
+build 1834_SingleThreadedCpu: phony leetcode/editor/cn/1834_SingleThreadedCpu.exe
+
+build 1834_SingleThreadedCpu.exe: phony leetcode/editor/cn/1834_SingleThreadedCpu.exe
+
 build 1912_DesignMovieRentalSystem: phony leetcode/editor/cn/1912_DesignMovieRentalSystem.exe
 
 build 1912_DesignMovieRentalSystem.exe: phony leetcode/editor/cn/1912_DesignMovieRentalSystem.exe
+
+build 1942_TheNumberOfTheSmallestUnoccupiedChair: phony leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.exe
+
+build 1942_TheNumberOfTheSmallestUnoccupiedChair.exe: phony leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.exe
 
 build 19_RemoveNthNodeFromEndOfList: phony leetcode/editor/cn/19_RemoveNthNodeFromEndOfList.exe
 
@@ -5286,13 +5888,29 @@ build 2013_DetectSquares: phony leetcode/editor/cn/2013_DetectSquares.exe
 
 build 2013_DetectSquares.exe: phony leetcode/editor/cn/2013_DetectSquares.exe
 
+build 2090_KRadiusSubarrayAverages: phony leetcode/editor/cn/2090_KRadiusSubarrayAverages.exe
+
+build 2090_KRadiusSubarrayAverages.exe: phony leetcode/editor/cn/2090_KRadiusSubarrayAverages.exe
+
 build 2208_MinimumOperationsToHalveArraySum: phony leetcode/editor/cn/2208_MinimumOperationsToHalveArraySum.exe
 
 build 2208_MinimumOperationsToHalveArraySum.exe: phony leetcode/editor/cn/2208_MinimumOperationsToHalveArraySum.exe
 
+build 2233_MaximumProductAfterKIncrements: phony leetcode/editor/cn/2233_MaximumProductAfterKIncrements.exe
+
+build 2233_MaximumProductAfterKIncrements.exe: phony leetcode/editor/cn/2233_MaximumProductAfterKIncrements.exe
+
+build 2300_SuccessfulPairsOfSpellsAndPotions: phony leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.exe
+
+build 2300_SuccessfulPairsOfSpellsAndPotions.exe: phony leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.exe
+
 build 2327_NumberOfPeopleAwareOfASecret: phony leetcode/editor/cn/2327_NumberOfPeopleAwareOfASecret.exe
 
 build 2327_NumberOfPeopleAwareOfASecret.exe: phony leetcode/editor/cn/2327_NumberOfPeopleAwareOfASecret.exe
+
+build 2336_SmallestNumberInInfiniteSet: phony leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.exe
+
+build 2336_SmallestNumberInInfiniteSet.exe: phony leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.exe
 
 build 2349_DesignANumberContainerSystem: phony leetcode/editor/cn/2349_DesignANumberContainerSystem.exe
 
@@ -5301,6 +5919,10 @@ build 2349_DesignANumberContainerSystem.exe: phony leetcode/editor/cn/2349_Desig
 build 234_PalindromeLinkedList: phony leetcode/editor/cn/234_PalindromeLinkedList.exe
 
 build 234_PalindromeLinkedList.exe: phony leetcode/editor/cn/234_PalindromeLinkedList.exe
+
+build 2406_DivideIntervalsIntoMinimumNumberOfGroups: phony leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.exe
+
+build 2406_DivideIntervalsIntoMinimumNumberOfGroups.exe: phony leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.exe
 
 build 242_ValidAnagram: phony leetcode/editor/cn/242_ValidAnagram.exe
 
@@ -5313,6 +5935,10 @@ build 2449_MinimumNumberOfOperationsToMakeArraysSimilar.exe: phony leetcode/edit
 build 2555_MaximizeWinFromTwoSegments: phony leetcode/editor/cn/2555_MaximizeWinFromTwoSegments.exe
 
 build 2555_MaximizeWinFromTwoSegments.exe: phony leetcode/editor/cn/2555_MaximizeWinFromTwoSegments.exe
+
+build 2558_TakeGiftsFromTheRichestPile: phony leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.exe
+
+build 2558_TakeGiftsFromTheRichestPile.exe: phony leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.exe
 
 build 2751_RobotCollisions: phony leetcode/editor/cn/2751_RobotCollisions.exe
 
@@ -5346,6 +5972,14 @@ build 30_SubstringWithConcatenationOfAllWords_mine: phony leetcode/editor/cn/30_
 
 build 30_SubstringWithConcatenationOfAllWords_mine.exe: phony leetcode/editor/cn/30_SubstringWithConcatenationOfAllWords_mine.exe
 
+build 3296_MinimumNumberOfSecondsToMakeMountainHeightZero: phony leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe
+
+build 3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe: phony leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe
+
+build 3298_CountSubstringsThatCanBeRearrangedToContainAStringIi: phony leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe
+
+build 3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe: phony leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe
+
 build 3302_FindTheLexicographicallySmallestValidSequence: phony leetcode/editor/cn/3302_FindTheLexicographicallySmallestValidSequence.exe
 
 build 3302_FindTheLexicographicallySmallestValidSequence.exe: phony leetcode/editor/cn/3302_FindTheLexicographicallySmallestValidSequence.exe
@@ -5370,9 +6004,17 @@ build 3470_PermutationsIv: phony leetcode/editor/cn/3470_PermutationsIv.exe
 
 build 3470_PermutationsIv.exe: phony leetcode/editor/cn/3470_PermutationsIv.exe
 
+build 3478_ChooseKElementsWithMaximumSum: phony leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.exe
+
+build 3478_ChooseKElementsWithMaximumSum.exe: phony leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.exe
+
 build 3484_DesignSpreadsheet: phony leetcode/editor/cn/3484_DesignSpreadsheet.exe
 
 build 3484_DesignSpreadsheet.exe: phony leetcode/editor/cn/3484_DesignSpreadsheet.exe
+
+build 3494_FindTheMinimumAmountOfTimeToBrewPotions: phony leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.exe
+
+build 3494_FindTheMinimumAmountOfTimeToBrewPotions.exe: phony leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.exe
 
 build 3495_MinimumOperationsToMakeArrayElementsZero: phony leetcode/editor/cn/3495_MinimumOperationsToMakeArrayElementsZero.exe
 
@@ -5389,6 +6031,10 @@ build 3516_FindClosestPerson.exe: phony leetcode/editor/cn/3516_FindClosestPerso
 build 3541_FindMostFrequentVowelAndConsonant: phony leetcode/editor/cn/3541_FindMostFrequentVowelAndConsonant.exe
 
 build 3541_FindMostFrequentVowelAndConsonant.exe: phony leetcode/editor/cn/3541_FindMostFrequentVowelAndConsonant.exe
+
+build 3542_MinimumOperationsToConvertAllElementsToZero: phony leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.exe
+
+build 3542_MinimumOperationsToConvertAllElementsToZero.exe: phony leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.exe
 
 build 37_SudokuSolver: phony leetcode/editor/cn/37_SudokuSolver.exe
 
@@ -5600,7 +6246,7 @@ build interestingQuestion/all: phony interestingQuestion/DivideSquare.exe intere
 #############################################
 # Folder: H:/Code/Cpp/Leetcode/cmake-build-debug/leetcode/editor/cn
 
-build leetcode/editor/cn/all: phony leetcode/editor/cn/0023_MergeKSortedLists.exe leetcode/editor/cn/0035_SearchInsertPosition.exe leetcode/editor/cn/0036_ValidSudoku.exe leetcode/editor/cn/0045_JumpGameIi.exe leetcode/editor/cn/0056_MergeIntervals.exe leetcode/editor/cn/0069_Sqrtx.exe leetcode/editor/cn/0093_RestoreIpAddresses.exe leetcode/editor/cn/0120_Triangle.exe leetcode/editor/cn/0129_SumRootToLeafNumbers.exe leetcode/editor/cn/0131_PalindromePartitioning.exe leetcode/editor/cn/0148_SortList.exe leetcode/editor/cn/0152_MaximumProductSubarray.exe leetcode/editor/cn/0173_BinarySearchTreeIterator.exe leetcode/editor/cn/0179_LargestNumber.exe leetcode/editor/cn/0198_HouseRobber.exe leetcode/editor/cn/0213_HouseRobberIi.exe leetcode/editor/cn/0215_KthLargestElementInAnArray.exe leetcode/editor/cn/0337_HouseRobberIii.exe leetcode/editor/cn/0347_TopKFrequentElements.exe leetcode/editor/cn/0373_FindKPairsWithSmallestSums.exe leetcode/editor/cn/0378_KthSmallestElementInASortedMatrix.exe leetcode/editor/cn/0410_SplitArrayLargestSum.exe leetcode/editor/cn/0435_NonOverlappingIntervals.exe leetcode/editor/cn/0437_PathSumIii.exe leetcode/editor/cn/0502_Ipo.exe leetcode/editor/cn/0528_RandomPickWithWeight.exe leetcode/editor/cn/0538_ConvertBstToGreaterTree.exe leetcode/editor/cn/0540_SingleElementInASortedArray.exe leetcode/editor/cn/0611_ValidTriangleNumber.exe leetcode/editor/cn/0703_KthLargestElementInAStream.exe leetcode/editor/cn/0719_FindKThSmallestPairDistance.exe leetcode/editor/cn/0729_MyCalendarI.exe leetcode/editor/cn/0746_MinCostClimbingStairs.exe leetcode/editor/cn/0778_SwimInRisingWater.exe leetcode/editor/cn/0781_RabbitsInForest.exe leetcode/editor/cn/0785_IsGraphBipartite.exe leetcode/editor/cn/0812_LargestTriangleArea.exe leetcode/editor/cn/0814_BinaryTreePruning.exe leetcode/editor/cn/0852_PeakIndexInAMountainArray.exe leetcode/editor/cn/0873_LengthOfLongestFibonacciSubsequence.exe leetcode/editor/cn/0875_KokoEatingBananas.exe leetcode/editor/cn/0897_IncreasingOrderSearchTree.exe leetcode/editor/cn/0912_SortAnArray.exe leetcode/editor/cn/0919_CompleteBinaryTreeInserter.exe leetcode/editor/cn/0926_FlipStringToMonotoneIncreasing.exe leetcode/editor/cn/0933_NumberOfRecentCalls.exe leetcode/editor/cn/0966_VowelSpellchecker.exe leetcode/editor/cn/1039_MinimumScoreTriangulationOfPolygon.exe leetcode/editor/cn/1044_LongestDuplicateSubstring.exe leetcode/editor/cn/1061_LexicographicallySmallestEquivalentString.exe leetcode/editor/cn/125_ValidPalindrome.exe leetcode/editor/cn/1262_GreatestSumDivisibleByThree.exe leetcode/editor/cn/1304_FindNUniqueIntegersSumUpToZero.exe leetcode/editor/cn/1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers.exe leetcode/editor/cn/1338_ReduceArraySizeToTheHalf.exe leetcode/editor/cn/1353_MaximumNumberOfEventsThatCanBeAttended.exe leetcode/editor/cn/141_LinkedListCycle.exe leetcode/editor/cn/142_LinkedListCycleIi.exe leetcode/editor/cn/143_ReorderList.exe leetcode/editor/cn/1488_AvoidFloodInTheCity.exe leetcode/editor/cn/150_EvaluateReversePolishNotation.exe leetcode/editor/cn/15_ThreeSum.exe leetcode/editor/cn/160_IntersectionOfTwoLinkedLists.exe leetcode/editor/cn/1675_MinimizeDeviationInArray.exe leetcode/editor/cn/1792_MaximumAveragePassRatio.exe leetcode/editor/cn/1912_DesignMovieRentalSystem.exe leetcode/editor/cn/19_RemoveNthNodeFromEndOfList.exe leetcode/editor/cn/1_TwoSum.exe leetcode/editor/cn/2013_DetectSquares.exe leetcode/editor/cn/2208_MinimumOperationsToHalveArraySum.exe leetcode/editor/cn/2327_NumberOfPeopleAwareOfASecret.exe leetcode/editor/cn/2349_DesignANumberContainerSystem.exe leetcode/editor/cn/234_PalindromeLinkedList.exe leetcode/editor/cn/242_ValidAnagram.exe leetcode/editor/cn/2449_MinimumNumberOfOperationsToMakeArraysSimilar.exe leetcode/editor/cn/2555_MaximizeWinFromTwoSegments.exe leetcode/editor/cn/2751_RobotCollisions.exe leetcode/editor/cn/2785_SortVowelsInAString.exe leetcode/editor/cn/2836_MaximizeValueOfFunctionInABallPassingGame.exe leetcode/editor/cn/2_AddTwoNumbers.exe leetcode/editor/cn/3027_FindTheNumberOfWaysToPlacePeopleIi.exe leetcode/editor/cn/304_RangeSumQuery2dImmutable.exe leetcode/editor/cn/30_SubstringWithConcatenationOfAllWords.exe leetcode/editor/cn/30_SubstringWithConcatenationOfAllWords_mine.exe leetcode/editor/cn/3302_FindTheLexicographicallySmallestValidSequence.exe leetcode/editor/cn/3408_DesignTaskManager.exe leetcode/editor/cn/3446_SortMatrixByDiagonals.exe leetcode/editor/cn/3453_SeparateSquaresI.exe leetcode/editor/cn/3459_LongestVShapeDigonal.exe leetcode/editor/cn/3470_PermutationsIv.exe leetcode/editor/cn/3484_DesignSpreadsheet.exe leetcode/editor/cn/3495_MinimumOperationsToMakeArrayElementsZero.exe leetcode/editor/cn/3508_ImplementRouter.exe leetcode/editor/cn/3516_FindClosestPerson.exe leetcode/editor/cn/3541_FindMostFrequentVowelAndConsonant.exe leetcode/editor/cn/37_SudokuSolver.exe leetcode/editor/cn/37_SudokuSolver_wrong.exe leetcode/editor/cn/380_InsertDeleteGetrandomO1.exe leetcode/editor/cn/39_CombinationSum.exe leetcode/editor/cn/3_LongestSubstringWithoutRepeatingCharacters.exe leetcode/editor/cn/40_CombinationSumIi.exe leetcode/editor/cn/415_AddStrings.exe leetcode/editor/cn/438_FindAllAnagramsInAString.exe leetcode/editor/cn/43_MultiplyStrings.exe leetcode/editor/cn/445_AddTwoNumbersIi.exe leetcode/editor/cn/46_Permutations.exe leetcode/editor/cn/47_PermutationsIi.exe leetcode/editor/cn/49_GroupAnagrams.exe leetcode/editor/cn/513_FindBottomLeftTreeValue.exe leetcode/editor/cn/515_FindLargestValueInEachTreeRow.exe leetcode/editor/cn/609_ReaptedFilesInSystem.exe leetcode/editor/cn/686_RepeatedStringMatch.exe leetcode/editor/cn/713_SubarrayProductLessThanK.exe leetcode/editor/cn/735_AsteroidCollision.exe leetcode/editor/cn/739_DailyTemperatures.exe leetcode/editor/cn/76_MinimumWindowSubstring.exe leetcode/editor/cn/77_Combinations.exe leetcode/editor/cn/78_Subsets.exe leetcode/editor/cn/84_LargestRectangleInHistogram.exe leetcode/editor/cn/85_MaximalRectangle.exe leetcode/editor/cn/LCR_012_Tvdfij.exe leetcode/editor/cn/LCR_014_StringPermutation.exe leetcode/editor/cn/LCR_017_M1oyTv.exe leetcode/editor/cn/LCR_024_UHnkqh.exe leetcode/editor/cn/LCR_029_FourUeAj6.exe leetcode/editor/cn/LCR_035_Five69nqc.exe leetcode/editor/cn/LCR_041_QIsx9U.exe leetcode/editor/cn/LCR_044_HPov7L.exe leetcode/editor/cn/LCR_053_P5rCT8.exe leetcode/editor/cn/LCR_091_JEj789.exe leetcode/editor/cn/LCR_132_JianShengZiIiLcof.exe leetcode/editor/cn/MissingTwoLcci.exe
+build leetcode/editor/cn/all: phony leetcode/editor/cn/0023_MergeKSortedLists.exe leetcode/editor/cn/0035_SearchInsertPosition.exe leetcode/editor/cn/0036_ValidSudoku.exe leetcode/editor/cn/0045_JumpGameIi.exe leetcode/editor/cn/0056_MergeIntervals.exe leetcode/editor/cn/0069_Sqrtx.exe leetcode/editor/cn/0093_RestoreIpAddresses.exe leetcode/editor/cn/0120_Triangle.exe leetcode/editor/cn/0129_SumRootToLeafNumbers.exe leetcode/editor/cn/0131_PalindromePartitioning.exe leetcode/editor/cn/0148_SortList.exe leetcode/editor/cn/0152_MaximumProductSubarray.exe leetcode/editor/cn/0173_BinarySearchTreeIterator.exe leetcode/editor/cn/0179_LargestNumber.exe leetcode/editor/cn/0198_HouseRobber.exe leetcode/editor/cn/0213_HouseRobberIi.exe leetcode/editor/cn/0215_KthLargestElementInAnArray.exe leetcode/editor/cn/0337_HouseRobberIii.exe leetcode/editor/cn/0347_TopKFrequentElements.exe leetcode/editor/cn/0373_FindKPairsWithSmallestSums.exe leetcode/editor/cn/0378_KthSmallestElementInASortedMatrix.exe leetcode/editor/cn/0410_SplitArrayLargestSum.exe leetcode/editor/cn/0435_NonOverlappingIntervals.exe leetcode/editor/cn/0437_PathSumIii.exe leetcode/editor/cn/0460_LfuCache.exe leetcode/editor/cn/0502_Ipo.exe leetcode/editor/cn/0528_RandomPickWithWeight.exe leetcode/editor/cn/0538_ConvertBstToGreaterTree.exe leetcode/editor/cn/0540_SingleElementInASortedArray.exe leetcode/editor/cn/0611_ValidTriangleNumber.exe leetcode/editor/cn/0703_KthLargestElementInAStream.exe leetcode/editor/cn/0719_FindKThSmallestPairDistance.exe leetcode/editor/cn/0729_MyCalendarI.exe leetcode/editor/cn/0746_MinCostClimbingStairs.exe leetcode/editor/cn/0778_SwimInRisingWater.exe leetcode/editor/cn/0781_RabbitsInForest.exe leetcode/editor/cn/0785_IsGraphBipartite.exe leetcode/editor/cn/0812_LargestTriangleArea.exe leetcode/editor/cn/0814_BinaryTreePruning.exe leetcode/editor/cn/0852_PeakIndexInAMountainArray.exe leetcode/editor/cn/0873_LengthOfLongestFibonacciSubsequence.exe leetcode/editor/cn/0875_KokoEatingBananas.exe leetcode/editor/cn/0897_IncreasingOrderSearchTree.exe leetcode/editor/cn/0912_SortAnArray.exe leetcode/editor/cn/0919_CompleteBinaryTreeInserter.exe leetcode/editor/cn/0926_FlipStringToMonotoneIncreasing.exe leetcode/editor/cn/0933_NumberOfRecentCalls.exe leetcode/editor/cn/0966_VowelSpellchecker.exe leetcode/editor/cn/1039_MinimumScoreTriangulationOfPolygon.exe leetcode/editor/cn/1044_LongestDuplicateSubstring.exe leetcode/editor/cn/1046_LastStoneWeight.exe leetcode/editor/cn/1061_LexicographicallySmallestEquivalentString.exe leetcode/editor/cn/125_ValidPalindrome.exe leetcode/editor/cn/1262_GreatestSumDivisibleByThree.exe leetcode/editor/cn/1304_FindNUniqueIntegersSumUpToZero.exe leetcode/editor/cn/1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers.exe leetcode/editor/cn/1338_ReduceArraySizeToTheHalf.exe leetcode/editor/cn/1353_MaximumNumberOfEventsThatCanBeAttended.exe leetcode/editor/cn/1358_NumberOfSubstringsContainingAllThreeCharacters.exe leetcode/editor/cn/1400_ConstructKPalindromeStrings.exe leetcode/editor/cn/141_LinkedListCycle.exe leetcode/editor/cn/142_LinkedListCycleIi.exe leetcode/editor/cn/143_ReorderList.exe leetcode/editor/cn/1488_AvoidFloodInTheCity.exe leetcode/editor/cn/150_EvaluateReversePolishNotation.exe leetcode/editor/cn/15_ThreeSum.exe leetcode/editor/cn/160_IntersectionOfTwoLinkedLists.exe leetcode/editor/cn/1675_MinimizeDeviationInArray.exe leetcode/editor/cn/1792_MaximumAveragePassRatio.exe leetcode/editor/cn/1834_SingleThreadedCpu.exe leetcode/editor/cn/1912_DesignMovieRentalSystem.exe leetcode/editor/cn/1942_TheNumberOfTheSmallestUnoccupiedChair.exe leetcode/editor/cn/19_RemoveNthNodeFromEndOfList.exe leetcode/editor/cn/1_TwoSum.exe leetcode/editor/cn/2013_DetectSquares.exe leetcode/editor/cn/2090_KRadiusSubarrayAverages.exe leetcode/editor/cn/2208_MinimumOperationsToHalveArraySum.exe leetcode/editor/cn/2233_MaximumProductAfterKIncrements.exe leetcode/editor/cn/2300_SuccessfulPairsOfSpellsAndPotions.exe leetcode/editor/cn/2327_NumberOfPeopleAwareOfASecret.exe leetcode/editor/cn/2336_SmallestNumberInInfiniteSet.exe leetcode/editor/cn/2349_DesignANumberContainerSystem.exe leetcode/editor/cn/234_PalindromeLinkedList.exe leetcode/editor/cn/2406_DivideIntervalsIntoMinimumNumberOfGroups.exe leetcode/editor/cn/242_ValidAnagram.exe leetcode/editor/cn/2449_MinimumNumberOfOperationsToMakeArraysSimilar.exe leetcode/editor/cn/2555_MaximizeWinFromTwoSegments.exe leetcode/editor/cn/2558_TakeGiftsFromTheRichestPile.exe leetcode/editor/cn/2751_RobotCollisions.exe leetcode/editor/cn/2785_SortVowelsInAString.exe leetcode/editor/cn/2836_MaximizeValueOfFunctionInABallPassingGame.exe leetcode/editor/cn/2_AddTwoNumbers.exe leetcode/editor/cn/3027_FindTheNumberOfWaysToPlacePeopleIi.exe leetcode/editor/cn/304_RangeSumQuery2dImmutable.exe leetcode/editor/cn/30_SubstringWithConcatenationOfAllWords.exe leetcode/editor/cn/30_SubstringWithConcatenationOfAllWords_mine.exe leetcode/editor/cn/3296_MinimumNumberOfSecondsToMakeMountainHeightZero.exe leetcode/editor/cn/3298_CountSubstringsThatCanBeRearrangedToContainAStringIi.exe leetcode/editor/cn/3302_FindTheLexicographicallySmallestValidSequence.exe leetcode/editor/cn/3408_DesignTaskManager.exe leetcode/editor/cn/3446_SortMatrixByDiagonals.exe leetcode/editor/cn/3453_SeparateSquaresI.exe leetcode/editor/cn/3459_LongestVShapeDigonal.exe leetcode/editor/cn/3470_PermutationsIv.exe leetcode/editor/cn/3478_ChooseKElementsWithMaximumSum.exe leetcode/editor/cn/3484_DesignSpreadsheet.exe leetcode/editor/cn/3494_FindTheMinimumAmountOfTimeToBrewPotions.exe leetcode/editor/cn/3495_MinimumOperationsToMakeArrayElementsZero.exe leetcode/editor/cn/3508_ImplementRouter.exe leetcode/editor/cn/3516_FindClosestPerson.exe leetcode/editor/cn/3541_FindMostFrequentVowelAndConsonant.exe leetcode/editor/cn/3542_MinimumOperationsToConvertAllElementsToZero.exe leetcode/editor/cn/37_SudokuSolver.exe leetcode/editor/cn/37_SudokuSolver_wrong.exe leetcode/editor/cn/380_InsertDeleteGetrandomO1.exe leetcode/editor/cn/39_CombinationSum.exe leetcode/editor/cn/3_LongestSubstringWithoutRepeatingCharacters.exe leetcode/editor/cn/40_CombinationSumIi.exe leetcode/editor/cn/415_AddStrings.exe leetcode/editor/cn/438_FindAllAnagramsInAString.exe leetcode/editor/cn/43_MultiplyStrings.exe leetcode/editor/cn/445_AddTwoNumbersIi.exe leetcode/editor/cn/46_Permutations.exe leetcode/editor/cn/47_PermutationsIi.exe leetcode/editor/cn/49_GroupAnagrams.exe leetcode/editor/cn/513_FindBottomLeftTreeValue.exe leetcode/editor/cn/515_FindLargestValueInEachTreeRow.exe leetcode/editor/cn/609_ReaptedFilesInSystem.exe leetcode/editor/cn/686_RepeatedStringMatch.exe leetcode/editor/cn/713_SubarrayProductLessThanK.exe leetcode/editor/cn/735_AsteroidCollision.exe leetcode/editor/cn/739_DailyTemperatures.exe leetcode/editor/cn/76_MinimumWindowSubstring.exe leetcode/editor/cn/77_Combinations.exe leetcode/editor/cn/78_Subsets.exe leetcode/editor/cn/84_LargestRectangleInHistogram.exe leetcode/editor/cn/85_MaximalRectangle.exe leetcode/editor/cn/LCR_012_Tvdfij.exe leetcode/editor/cn/LCR_014_StringPermutation.exe leetcode/editor/cn/LCR_017_M1oyTv.exe leetcode/editor/cn/LCR_024_UHnkqh.exe leetcode/editor/cn/LCR_029_FourUeAj6.exe leetcode/editor/cn/LCR_035_Five69nqc.exe leetcode/editor/cn/LCR_041_QIsx9U.exe leetcode/editor/cn/LCR_044_HPov7L.exe leetcode/editor/cn/LCR_053_P5rCT8.exe leetcode/editor/cn/LCR_091_JEj789.exe leetcode/editor/cn/LCR_132_JianShengZiIiLcof.exe leetcode/editor/cn/MissingTwoLcci.exe
 
 # =============================================================================
 # Built-in targets
